@@ -1,0 +1,36 @@
+
+[Permissions]
+	#Choose a permission persistence backend (flatfile, sql, json, singlejson). DO NOT use SQL, unless you really need to use it.
+	persistenceBackend = "singlejson"
+	#Should we force override UUID for fake players? This is by default true because mods are randomly generating UUID each boot!
+	fakePlayerIsSpecialBunny = false
+	#Should we use the entire command node for permission checking? You might have to reset all your command perm settings if you change this!
+	useEntireCommandNode = false
+
+[ItemPermissions]
+	#Enable the item permission manager
+	enabled = false
+
+[PermissionScheduler]
+	#Enable the permission scheduler which can toggle permissions based on game / server time
+	enabled = false
+
+[Permissions-DBTypes]
+	# valid types: H2_FILE, MySQL
+	chosenType = "H2_FILE"
+	#If this is true, settings will be taken from the parent, most probably the Main or Core config. This is only taken into effect with remote databases.
+	checkParent = false
+
+[Permissions-DBTypes-H2_FILE]
+	#this may be a file path as well for fileDatabases.
+	database = "ForgeEssentials"
+
+[Permissions-DBTypes-MySQL]
+	host = "localhost"
+	#Range: 0 ~ 65535
+	port = 3306
+	#this may be a file path as well for fileDatabases.
+	database = "ForgeEssentials"
+	user = "FEUSER"
+	pass = "password"
+

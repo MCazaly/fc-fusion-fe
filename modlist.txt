@@ -1,0 +1,3755 @@
+# --- ModList ---
+# Generated: 28-11-2023 (Server time)
+# Build: 16.0.3
+# Change the location of this file in main.toml
+
+#######################################################################################
+Name:        Friendly Endermite
+Version:     1.0.0
+Description: Endermans will not attack Endermites anymore, so they cannot be used to make an Enderman farm.
+ModID:       friendlyendermite
+Namespace:   friendlyendermite
+Properties:  {}
+License:     GNU General Public License v3.0
+Modfile:     Mod File: /home/container/mods/FriendlyEndermite_v1.0.3_mc1.16.5.jar
+IssueURL:    https://github.com/CreativeMD/FriendlyEndermite/issues
+UpdateURL:   null
+#######################################################################################
+Name:        YUNG's Better Dungeons
+Version:     1.16.4-1.2.1
+Description: A complete redesign of Minecraft's dungeons
+ModID:       betterdungeons
+Namespace:   betterdungeons
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/BetterDungeons-1.16.4-1.2.1.jar
+IssueURL:    https://github.com/yungnickyoung/YUNGs-Better-Dungeons/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Immersive Cooking
+Version:     1.2.0
+Description: A mod about making cooking more Immersive.
+ModID:       immersivecooking
+Namespace:   immersivecooking
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/immersivecooking-1.2.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        SuperMartijn642's Config Library
+Version:     1.1.8
+Description: Config Lib makes dealing with config files just a bit easier.
+ModID:       supermartijn642configlib
+Namespace:   supermartijn642configlib
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/supermartijn642configlib-1.1.8-forge-mc1.16.jar
+IssueURL:    https://github.com/SuperMartijn642/SuperMartijn642sConfigLib/issues
+UpdateURL:   null
+#######################################################################################
+Name:        SlimyBoyos
+Version:     3.1.0.23
+Description: Makes slimes pickup items.
+ModID:       slimyboyos
+Namespace:   slimyboyos
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/SlimyBoyos-3.1.0.23.jar
+IssueURL:    null
+UpdateURL:   https://updates.blamejared.com/get?n=SlimyBoyos&gv=1.16.5
+#######################################################################################
+Name:        Areas
+Version:     3.1
+Description: Create custom named areas/towns with a radius using signs, which sends join and leave messages.
+ModID:       areas
+Namespace:   areas
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/areas_1.16.5-3.1.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Areas
+UpdateURL:   null
+#######################################################################################
+Name:        Pet Names
+Version:     1.5
+Description: Gives tamable baby animals a pre-defined name. For Wolves, Cats, Horses, Donkeys, Mules and Llamas.
+ModID:       petnames
+Namespace:   petnames
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/petnames_1.16.5-1.5.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Pet%20Names
+UpdateURL:   null
+#######################################################################################
+Name:        Locksmith
+Version:     1.0.3
+Description: Immersive protection with locks and keys.
+ModID:       locksmith
+Namespace:   locksmith
+Properties:  {catalogueImageIcon=icon.png}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/locksmith-forge-1.0.3+1.16.5.jar
+IssueURL:    https://github.com/MoonflowerTeam/locksmith/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Windows
+Version:     2.2.0
+Description: Build Windows, Sills, Blinds, Shutters, Mosaic Windows and more!
+ModID:       mcwwindows
+Namespace:   mcwwindows
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/mcw-windows-2.2.0-mc1.16.5forge.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+#######################################################################################
+Name:        Coupons
+Version:     1.0.1
+Description: You get discount and you get discount. EVERYBODY GETS DISCOUNT!
+ModID:       coupons
+Namespace:   coupons
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Coupons-1.16.5-1.0.1.jar
+IssueURL:    https://github.com/mrbysco/Coupons/issues
+UpdateURL:   null
+#######################################################################################
+Name:        ToroHealth
+Version:     NONE
+Description: Health bars will appear in the top left corner for the entity in the player's crosshairs.
+ModID:       torohealth
+Namespace:   torohealth
+Properties:  {}
+License:     GPL3
+Modfile:     Mod File: /home/container/mods/torohealth-1.16.4-forge-4.jar
+IssueURL:    https://github.com/ToroCraft/ToroHealth/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Straw Golem
+Version:     1.16-1.9
+Description: Adds a straw golem to help with farming
+ModID:       strawgolem
+Namespace:   strawgolem
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/strawgolem-1.16-1.9.jar
+IssueURL:    https://github.com/daPoseidonGuy/strawgolem
+UpdateURL:   null
+#######################################################################################
+Name:        Hourglass
+Version:     1.2.1.0
+Description: Hourglass is a Minecraft Forge mod that gives you control over the passage of time. It allows you to customize the length of the day-night cycle and alters the Minecraft sleep mechanic by accelerating the speed of time.
+
+This mod (optionally) replaces the vanilla sleep functionality with a smooth and natural transition to morning by accelerating the passage of time while you're in bed. In multiplayer, time will pass faster depending on the percentage of players who are currently sleeping. This removes the need for any sleep voting system or player threshold, as any number of players can have an impact on the duration of the night.
+
+Hourglass allows for customization of the day-night cycle duration, and can control day and night speed independently. Rather than the vanilla duration of 20 minutes, you can slow down time to make a day in Minecraft last as long as a day in real life, or speed up the passage of nights for a more forgiving experience.
+ModID:       hourglass
+Namespace:   hourglass
+Properties:  {}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/hourglass-1.16.5-1.2.1.0.jar
+IssueURL:    https://github.com/DuckyCrayfish/hourglass/issues
+UpdateURL:   https://raw.githubusercontent.com/DuckyCrayfish/hourglass/main/res/versions.json
+#######################################################################################
+Name:        Neat
+Version:     1.7-27
+Description: Minimalistic Functional Unit Plates for the modern Minecrafter
+ModID:       neat
+Namespace:   neat
+Properties:  {}
+License:     Creative Commons 3.0 BY-NC-SA
+Modfile:     Mod File: /home/container/mods/Neat 1.7-27.jar
+IssueURL:    https://github.com/Vazkii/Neat
+UpdateURL:   null
+#######################################################################################
+Name:        YUNG's Better Caves
+Version:     1.16.4-1.1.2
+Description: Overhauled cave generation, underground lakes and rivers, lava oceans, and more! The most powerful and customizable Minecraft cave mod, with dozens of options and support for dimension-specific configurability.
+ModID:       bettercaves
+Namespace:   bettercaves
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/BetterCaves-Forge-1.16.4-1.1.2.jar
+IssueURL:    https://github.com/yungnickyoung/YUNGs-Better-Caves/issues
+UpdateURL:   https://raw.githubusercontent.com/yungnickyoung/YUNGs-Better-Caves/1.16/versions.json
+#######################################################################################
+Name:        ForgeEndertech
+Version:     7.3.0.0
+Description: Contains all shared classes for Endertech mods.
+ModID:       forgeendertech
+Namespace:   forgeendertech
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/ForgeEndertech-1.16.5-7.3.0.0-build.0330.jar
+IssueURL:    https://www.curseforge.com/minecraft/mc-mods/forgeendertech/issues
+UpdateURL:   null
+#######################################################################################
+Name:        GravelMiner
+Version:     10.2.0
+Description: Automatically (insta-)mines falling gravel blocks that get in your way while mining.
+ModID:       gravelminer
+Namespace:   gravelminer
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/GravelMiner_1.16.3-10.2.0.jar
+IssueURL:    https://github.com/blay09/GravelMiner/issues
+UpdateURL:   null
+#######################################################################################
+Name:        ConnectedTexturesMod
+Version:     MC1.16.1-1.1.2.6
+Description: Allows resource packs to add connected textures, emissive rendering, and much more.
+ModID:       ctm
+Namespace:   ctm
+Properties:  {}
+License:     GPL-2.0
+Modfile:     Mod File: /home/container/mods/CTM-MC1.16.1-1.1.2.6.jar
+IssueURL:    https://github.com/Chisel-Team/ConnectedTexturesMod/issues/
+UpdateURL:   null
+#######################################################################################
+Name:        Farmer's Delight Compats
+Version:     1.16.5-1.2
+Description: Adds Farmer's Delight integration to many different mods.
+
+Additional credits:
+vectorwing - Farmer's Delight
+ModID:       farmersdelightintegrations
+Namespace:   farmersdelightintegrations
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/farmersdelightintegrations-1.16.5-1.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        YUNG's API
+Version:     1.16.4-Forge-13
+Description: API Library for YUNG's minecraft mods.
+ModID:       yungsapi
+Namespace:   yungsapi
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/YungsApi-1.16.4-Forge-13.jar
+IssueURL:    https://github.com/yungnickyoung/YUNGs-Api/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Bridges - Biome O' Plenty
+Version:     1.16.5-1.7
+Description: Compatibility Macaw's Bridges with Biome O' Plenty for Minecraft 1.16.5.
+ModID:       macawsbridgesbop
+Namespace:   macawsbridgesbop
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/macawsbridgesbop-1.16.5-1.7.jar
+IssueURL:    https://github.com/Samlegamer/Macaw-s-Bridges-Compat/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Stationary Source Blocks
+Version:     1.1
+Description: Buckets can be filled and emptied, but cannot remove or place source blocks of water or lava.
+ModID:       stationarysourceblocks
+Namespace:   stationarysourceblocks
+Properties:  {}
+License:     Public domain
+Modfile:     Mod File: /home/container/mods/StationarySourceBlocks-1.16.5-1.3.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        LootBeams
+Version:     1.16.5
+Description: Renders highly configurable colored beams on dropped items!
+ModID:       lootbeams
+Namespace:   lootbeams
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/lootbeams-1.16.5-release-july1722.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Guard Villagers
+Version:     1.2.6
+Description: Need some help with pest control? The Guards are ready to help!
+ModID:       guardvillagers
+Namespace:   guardvillagers
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/guardvillagers-1.16.5.1.2.6.jar
+IssueURL:    https://github.com/seymourimadeit/guardvillagers/issues
+UpdateURL:   https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+#######################################################################################
+Name:        RandomPatches
+Version:     2.4.4-forge
+Description: RandomPatches, a bunch of miscellaneous patches for Minecraft.
+ModID:       randompatches
+Namespace:   randompatches
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/randompatches-2.4.4-forge.jar
+IssueURL:    https://github.com/TheRandomLabs/RandomPatches/issues
+UpdateURL:   https://raw.githubusercontent.com/TheRandomLabs/RandomPatches/misc/versions.json
+#######################################################################################
+Name:        Secret Rooms 6
+Version:     1.16.5-1.1.4
+Description: This mod adds a variety of cool blocks that camouflage themselves to the surrounding world.
+All of these blocks have extremely useful functions that allow you to simply hide your diamonds, or punish all who dare try to get to them.
+Hidden doors, pressure plates, hidden levers and more!
+ModID:       secretroomsmod
+Namespace:   secretroomsmod
+Properties:  {}
+License:     All right reserved
+Modfile:     Mod File: /home/container/mods/secretrooms-1.16.5-1.1.4.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Pick Up Notifier
+Version:     1.2
+Description: Be notified about all the things you've just collected.
+ModID:       pickupnotifier
+Namespace:   pickupnotifier
+Properties:  {}
+License:     The Unlicense
+Modfile:     Mod File: /home/container/mods/PickUpNotifier-v1.2-1.16.3.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Living Chest
+Version:     1.0.0.1
+Description: A mod that adds Chester (from Don't Starve) to Minecraft.
+ModID:       livingchest
+Namespace:   livingchest
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/livingchest-1.16.5-1.0.0.1.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/ayloncarrijo/livingchest/master/update.json
+#######################################################################################
+Name:        Tinkers' Mechworks
+Version:     2.2.5
+Description: 
+ModID:       tmechworks
+Namespace:   tmechworks
+Properties:  {}
+License:     Creative Commons 3
+Modfile:     Mod File: /home/container/mods/TMechworks-1.16.3+-2.2.5.jar
+IssueURL:    https://github.com/SlimeKnights/TinkersMechworks/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Just Enough Resources
+Version:     0.12.2.216
+Description: Adds Resources and Mob Drops to JEI
+ModID:       jeresources
+Namespace:   jeresources
+Properties:  {}
+License:     'Don't Be a Jerk' non-commercial care-free license
+Modfile:     Mod File: /home/container/mods/JustEnoughResources-1.16.5-0.12.2.216.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Chat Heads
+Version:     0.6.0
+Description: See who are you chatting with!
+This mod adds player heads next to their chat messages.
+ModID:       chat_heads
+Namespace:   chat_heads
+Properties:  {}
+License:     MPL-2.0
+Modfile:     Mod File: /home/container/mods/chat_heads-0.6.0-forge-1.16.5.jar
+IssueURL:    https://github.com/dzwdz/chat_heads/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Paraglider
+Version:     1.3.2.14
+Description: BotW style Paraglider
+ModID:       paraglider
+Namespace:   paraglider
+Properties:  {}
+License:     GNU General Public License version 3 (GPLv3)
+Modfile:     Mod File: /home/container/mods/Paraglider-1.16.5-1.3.2.14.jar
+IssueURL:    https://github.com/Tictim/Paraglider/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Stack Refill
+Version:     3.2
+Description: A quality of life mod which automatically refills the item in the hand of the player when using the final item if possible.
+ModID:       stackrefill
+Namespace:   stackrefill
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/stackrefill_1.16.5-3.2.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Stack%20Refill
+UpdateURL:   null
+#######################################################################################
+Name:        ShetiPhian-Core
+Version:     3.8.21
+Description: Core set of files needed by ShetiPhian's mods
+ModID:       shetiphiancore
+Namespace:   shetiphiancore
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/shetiphiancore-forge-1.16.2-lts-3.8.21.jar
+IssueURL:    https://github.com/ShetiPhian/Localizations-and-Issues/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Daily Rewards
+Version:     1.0.0
+Description: Daily rewards is a very lightweight and simple Forge mod that rewards players daily.
+ModID:       daily_rewards
+Namespace:   daily_rewards
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/daily_rewards_1.16.5-1.0.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Supplementaries
+Version:     0.18.2
+Description: Many functional and useful Vanilla+ blocks
+ModID:       supplementaries
+Namespace:   supplementaries
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/supplementaries-1.16.5-0.18.5.jar
+IssueURL:    https://www.curseforge.com/minecraft/mc-mods/supplementaries/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Embeddium
+Version:     0.2.6+mc1.16.5
+Description: Embeddium is a fork of Rubidium, a fork of Sodium modified to run on Forge
+ModID:       embeddium
+Namespace:   embeddium
+Properties:  {}
+License:     LGPL-3.0-only
+Modfile:     Mod File: /home/container/mods/embeddium-0.2.6+mc1.16.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Rubidium (Embeddium)
+Version:     0.2.13
+Description: Stub, to allow mods detecting Rubidium to function as expected.
+ModID:       rubidium
+Namespace:   rubidium
+Properties:  {}
+License:     LGPL-3.0-only
+Modfile:     Mod File: /home/container/mods/embeddium-0.2.6+mc1.16.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        BetterEnd Forge
+Version:     1.16.5-2.5
+Description: This mod adds new content to the end dimension that vastly improves and expands your end game. Now in parity with Fabric
+ModID:       betterendforge
+Namespace:   betterendforge
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/betterendforge-1.16.5-2.5.jar
+IssueURL:    https://github.com/Someone-Else-Was-Taken/BetterEndForge-Reforked/issues
+UpdateURL:   null
+#######################################################################################
+Name:        You Cannot Swim Up Waterfalls
+Version:     1.0
+Description: Prevent swimming upwards in falling water.
+ModID:       cantswimupwaterfalls
+Namespace:   cantswimupwaterfalls
+Properties:  {}
+License:     LGPL V3
+Modfile:     Mod File: /home/container/mods/You-Cannot-Swim-Up-Waterfalls-1.0-Forge-MC1.16.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Structure Gel API
+Version:     1.7.8
+Description: An API mod to improve the developer side of structure gen
+ModID:       structure_gel
+Namespace:   structure_gel
+Properties:  {}
+License:     https://www.gnu.org/licenses/gpl-3.0.en.html
+Modfile:     Mod File: /home/container/mods/structure_gel-1.16.5-1.7.8.jar
+IssueURL:    https://gitlab.com/modding-legacy/structure-gel-api/-/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Corpse
+Version:     1.16.5-1.0.7
+Description: This mod brings a corpse into the game.
+It will spawn upon your death containing all items that you had in your inventory.
+ModID:       corpse
+Namespace:   corpse
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/corpse-1.16.5-1.0.7.jar
+IssueURL:    https://github.com/henkelmax/corpse/issues
+UpdateURL:   https://maxhenkel.de/update/corpse.json
+#######################################################################################
+Name:        Advancement Plaques
+Version:     1.4.1
+Description: Replaces standard advancement toasts with fancy plaques.
+ModID:       advancementplaques
+Namespace:   advancementplaques
+Properties:  {}
+License:     CC BY-NC-ND 4.0
+Modfile:     Mod File: /home/container/mods/AdvancementPlaques-1.16.5-1.4.1.jar
+IssueURL:    null
+UpdateURL:   https://mc-update-check.anthonyhilyard.com/499826
+#######################################################################################
+Name:        PackMenu
+Version:     2.5.0
+Description: A data-driven main menu mod!
+ModID:       packmenu
+Namespace:   packmenu
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/PackMenu-1.16.5-2.5.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        AllTheOres
+Version:     1.3.6-1.16.5-36.1.0
+Description: Adding crucial ores to the early dev cycle to prevent world resets in the event of lack of retrogen
+ModID:       alltheores
+Namespace:   alltheores
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/alltheores-1.3.6-1.16.5-36.1.0.jar
+IssueURL:    http://my.issue.tracker/
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Bridges - Abnormals
+Version:     1.16.5-1.4
+Description: Support :
+- Buzzier Bees
+- Atmospheric
+- Autumnity
+- Environmental
+- Upgrade Aquatic
+- Endergetic
+ModID:       mcwbridgesabnormals
+Namespace:   mcwbridgesabnormals
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/mcwbridgesabnormals-1.16.5-1.4.jar
+IssueURL:    https://github.com/Samlegamer/Macaw-s-Bridges-Compat/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Repurposed Structures
+Version:     3.4.7+1.16.5
+Description: Taking existing vanilla structures and changing them up for extra variety!
+ModID:       repurposed_structures
+Namespace:   repurposed_structures
+Properties:  {}
+License:     https://github.com/TelepathicGrunt/RepurposedStructures/blob/1.16/LICENSE
+Modfile:     Mod File: /home/container/mods/repurposed_structures_forge-3.4.7+1.16.5.jar
+IssueURL:    https://github.com/TelepathicGrunt/RepurposedStructures/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Manure
+Version:     1.1
+Description: Animals periodically drop manure, by default twice a day. Can be used as a bone meal substitute.
+ModID:       manure
+Namespace:   manure
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/manure_1.16.5-1.1.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Manure
+UpdateURL:   null
+#######################################################################################
+Name:        Daily Dad
+Version:     1.0.0
+Description: Sometimes I tell dad jokes
+
+Sometimes he laughs at them
+ModID:       dailydad
+Namespace:   dailydad
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/DailyDad-1.16.5-1.0.0.jar
+IssueURL:    https://github.com/Mrbysco/DailyDad/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Biomes O' Plenty
+Version:     1.16.5-13.1.0.488
+Description: Adds over 50 new biomes, blocks, and more!
+ModID:       biomesoplenty
+Namespace:   biomesoplenty
+Properties:  {}
+License:     Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+Modfile:     Mod File: /home/container/mods/BiomesOPlenty-1.16.5-13.1.0.488-universal.jar
+IssueURL:    https://github.com/Glitchfiend/BiomesOPlenty/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Blur
+Version:     1.1.0-1
+Description: Adds a blurry background when viewing GUIs
+ModID:       blur
+Namespace:   blur
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Blur-1.1.0-1.jar
+IssueURL:    https://github.com/tterrag1098/Blur/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Improved Mount HUD
+Version:     1.0.1
+Description: Makes your food and experience bars visible when riding a mount such as a horse.
+ModID:       improvedmounthud
+Namespace:   improvedmounthud
+Properties:  {configuredBackground=minecraft:textures/block/birch_planks.png, catalogueImageIcon=mod_logo.png}
+License:     Mozilla Public License 2.0
+Modfile:     Mod File: /home/container/mods/ImprovedMountHUD-v1.0.1-1.16.5-Forge.jar
+IssueURL:    https://github.com/Fuzss/improvedmounthud-forge/issues
+UpdateURL:   https://raw.githubusercontent.com/Fuzss/modresources/main/update/improvedmounthud.json
+#######################################################################################
+Name:        Macaw's Trapdoors
+Version:     1.1.1
+Description: Adds lots of different Trapdoors! With vanila and unique styles.
+ModID:       mcwtrpdoors
+Namespace:   mcwtrpdoors
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/mcw-trapdoors-1.1.1-mc1.16.5forge.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+#######################################################################################
+Name:        SuperMartijn642's Core Lib
+Version:     1.1.16
+Description: SuperMartijn642's Core Lib adds lots of basic implementations for guis that allow for similar code between Minecraft 1.12, 1.14, 1.15, and 1.16!
+ModID:       supermartijn642corelib
+Namespace:   supermartijn642corelib
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/supermartijn642corelib-1.1.16-forge-mc1.16.jar
+IssueURL:    https://github.com/SuperMartijn642/SuperMartijn642sCoreLib/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Corpse Complex
+Version:     1.16.5-4.0.2.8
+Description: Customize player death consequences, including selective keep inventory, experience loss, respawn potion effects and more!
+ModID:       corpsecomplex
+Namespace:   corpsecomplex
+Properties:  {}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/corpsecomplex-forge-1.16.5-4.0.2.8.jar
+IssueURL:    https://github.com/TheIllusiveC4/CorpseComplex/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Highlighter
+Version:     1.1.1
+Description: Highlights newly picked-up items in your inventory.
+ModID:       highlighter
+Namespace:   highlighter
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Highlighter-1.16.5-1.1.1.jar
+IssueURL:    null
+UpdateURL:   https://mc-update-check.anthonyhilyard.com/521590
+#######################################################################################
+Name:        spark
+Version:     1.9.1
+Description: spark is a performance profiling plugin/mod for Minecraft clients, servers and proxies.
+ModID:       spark
+Namespace:   spark
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/spark-1.9.1-forge.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Curios API
+Version:     1.16.5-4.1.0.0
+Description: A flexible and expandable accessory/equipment API for users and developers.
+ModID:       curios
+Namespace:   curios
+Properties:  {catalogueImageIcon=curios_icon.png}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/curios-forge-1.16.5-4.1.0.0.jar
+IssueURL:    https://github.com/TheIllusiveC4/Curios/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Carrots Lib
+Version:     3.0
+Description: Base library and framework used by The_Wabbit's mods starting from Minecraft 1.14.4
+ModID:       carrots
+Namespace:   carrots
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/carrotslib-mc1.16.5-3.0.jar
+IssueURL:    https://github.com/Wabbit0101/mods_hoardercraft/issues
+UpdateURL:   http://jwaresoftware.org/files/mcmods/versions/carrots.json
+#######################################################################################
+Name:        Energy Meter
+Version:     1.6.1
+Description: Easily measure your energy rates.
+ModID:       energymeter
+Namespace:   energymeter
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/energymeter-1.16.5-1.6.1.jar
+IssueURL:    https://github.com/AlmostReliable/energymeter-forge/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Boat Behavior Tweaks
+Version:     0.4-1.16.5
+Description: changes boats with a config option
+ModID:       boattweaks
+Namespace:   boattweaks
+Properties:  {}
+License:     GNU Lesser General Public License v3.0
+Modfile:     Mod File: /home/container/mods/boattweaks-0.4-1.16.5.jar
+IssueURL:    http://my.issue.tracker/
+UpdateURL:   null
+#######################################################################################
+Name:        Measurements
+Version:     1.2
+Description: Measure the distance between positions :)
+ModID:       measurements
+Namespace:   measurements
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Measurements-1.16.5-1.2.jar
+IssueURL:    https://github.com/Mrbysco/measurements
+UpdateURL:   null
+#######################################################################################
+Name:        YUNG's Extras
+Version:     Forge-1.16.4-1.0
+Description: Extra structures and vanilla+ content added throughout the game
+ModID:       yungsextras
+Namespace:   yungsextras
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/YungsExtras-Forge-1.16.4-1.0.jar
+IssueURL:    https://github.com/yungnickyoung/YUNGs-Extras/issues
+UpdateURL:   null
+#######################################################################################
+Name:        TheAbyss
+Version:     2.2.3-4
+Description: The Abyss adds a brand new dimension to explore full of unique adventures and dangers! It's a dimension of darkness the only light comes from magical blocks and the various flora, fungi, and fauna of the dimension.
+ModID:       theabyss
+Namespace:   theabyss
+Properties:  {}
+License:     Custom license
+Modfile:     Mod File: /home/container/mods/TheAbyss2 2.2.3-4 1.16.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Construction Wand
+Version:     1.16.5-2.6
+Description: Construction Wands make building easier!
+
+With a Construction Wand you can place multiple blocks (up to 1024) at once, extending your build on the side you're
+facing. If that's not enough: you can upgrade your wand with additional cores, allowing you to place a block
+behind the block you are facing, conjure blocks in mid air or destroy lots of blocks very fast.
+
+This is my first minecraft mod. May the odds be ever in your favor.
+ModID:       constructionwand
+Namespace:   constructionwand
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/constructionwand-1.16.5-2.6.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Roofs
+Version:     2.2.4
+Description: Build roofs, awnings, rain gutters and more!
+ModID:       mcwroofs
+Namespace:   mcwroofs
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/mcw-roofs-2.2.4-mc1.16.5forge.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+#######################################################################################
+Name:        Name Tag Tweaks
+Version:     1.6
+Description: Adds name tag crafting recipe, /nametag command, and named entities drop their name tag on death.
+ModID:       nametagtweaks
+Namespace:   nametagtweaks
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/nametagtweaks_1.16.5-1.6.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Name%20Tag%20Tweaks
+UpdateURL:   null
+#######################################################################################
+Name:        The Weirding Gadget
+Version:     2.2.7
+Description: No idea what this does, but stuff happens when I'm not here.
+ModID:       weirdinggadget
+Namespace:   weirdinggadget
+Properties:  {}
+License:     LGPL3
+Modfile:     Mod File: /home/container/mods/weirdinggadget-1.16.(2-4)-2.2.7.jar
+IssueURL:    http://github.com/AtomicBlom/WeirdingGadget/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Furniture
+Version:     3.2.0
+Description: Chairs, Wardrobes, Drawers, Tables, Desks and more..!
+ModID:       mcwfurnitures
+Namespace:   mcwfurnitures
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/mcw-furniture-3.2.0-mc1.16.5forge.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+#######################################################################################
+Name:        Chimes
+Version:     1.0.0
+Description: Enjoy and relax to the sound of wind chimes in your Minecraft world!
+This mod adds Wind Chimes that sway and produce relaxing sounds when hung. Use these for your building and adventuring pleasures!
+ModID:       chimes
+Namespace:   chimes
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/Chimes-1.0.0-1.16.5.jar
+IssueURL:    http://my.issue.tracker/
+UpdateURL:   null
+#######################################################################################
+Name:        Cloth Config v4 API
+Version:     4.17.101
+Description: An API for config screens.
+ModID:       cloth-config
+Namespace:   cloth-config
+Properties:  {}
+License:     GNU LGPLv3
+Modfile:     Mod File: /home/container/mods/cloth-config-4.17.101-forge.jar
+IssueURL:    https://github.com/architectury/ClothConfig/issues/
+UpdateURL:   null
+#######################################################################################
+Name:        Advanced Chimneys
+Version:     6.1.0.0
+Description: Adds chimney pipes through which smoke from a fire or furnace goes up into the air.
+ModID:       adchimneys
+Namespace:   adchimneys
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/AdChimneys-1.16.5-6.1.0.0-build.0330.jar
+IssueURL:    https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Followers Teleport Too
+Version:     1.1
+Description: Whenever a player is teleported via a command, their pets will be teleported alongside them.
+ModID:       followersteleporttoo
+Namespace:   followersteleporttoo
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/followersteleporttoo_1.16.5-1.1.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Followers%20Teleport%20Too
+UpdateURL:   null
+#######################################################################################
+Name:        Keep Head Names
+Version:     1.5.1
+Description: Keep display names and lore tags of player heads (fix MC-174496)
+ModID:       keepheadnames
+Namespace:   keepheadnames
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/KeepHeadNames-1.5.1-forge-1.16.5.jar
+IssueURL:    https://github.com/Fourmisain/KeepHeadNames/issues
+UpdateURL:   null
+#######################################################################################
+Name:        YUNG's Better Mineshafts
+Version:     1.16.4-2.0.4
+Description: A long-awaited and much-needed abandoned mineshaft overhaul!
+ModID:       bettermineshafts
+Namespace:   bettermineshafts
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/BetterMineshafts-Forge-1.16.4-2.0.4.jar
+IssueURL:    https://github.com/yungnickyoung/YUNGs-Better-Mineshafts/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Recriuts Mod
+Version:     1.5.1
+Description: This Mod adds hireable Recruits with differnet Ranks like in M&B-Bannerlord into Minecraft.
+ModID:       recruits
+Namespace:   recruits
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/recruits-1.16.5-1.5.1.jar
+IssueURL:    null
+UpdateURL:   https://github.com/talhanation/recruits/blob/main/update.json
+#######################################################################################
+Name:        Drip Sounds
+Version:     0.3.0
+Description: Makes drip particles play a sound (and other related changes).
+ModID:       waterdripsound
+Namespace:   waterdripsound
+Properties:  {}
+License:     LGPL v3.0
+Modfile:     Mod File: /home/container/mods/DripSounds-1.16-0.3.0.jar
+IssueURL:    https://github.com/PieKing1215/WaterDripSound/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Tinker's Planner
+Version:     1.2.0
+Description: Tinker's Planner is a client-side mod which allows you to try out different material combinations for tools before actually making the tool.
+ModID:       tconplanner
+Namespace:   tconplanner
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/tconplanner-1.16.5-1.2.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Save My Stronghold!
+Version:     1.16.4-1.0
+Description: A lightweight mod to prevent strongholds from being torn up by underground caves and structures.
+ModID:       savemystronghold
+Namespace:   savemystronghold
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/SaveMyStronghold-1.16.4-1.0.jar
+IssueURL:    https://github.com/yungnickyoung/Save-My-Stronghold/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Kiwi
+Version:     3.6.1
+Description: 
+ModID:       kiwi
+Namespace:   kiwi
+Properties:  {catalogueItemIcon=minecraft:bookshelf}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Kiwi-1.16.5-3.6.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Client Tweaks
+Version:     5.3.0
+Description: There, I fixed Minecraft for you.
+ModID:       clienttweaks
+Namespace:   clienttweaks
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/ClientTweaks_1.16.3-5.3.0.jar
+IssueURL:    https://github.com/blay09/ClientTweaks/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Stylish Effects
+Version:     1.2.1
+Description: Status effect display overhaul: Display them anywhere! And way more compact.
+ModID:       stylisheffects
+Namespace:   stylisheffects
+Properties:  {configuredBackground=minecraft:textures/block/birch_planks.png, catalogueImageIcon=mod_logo.png}
+License:     Mozilla Public License 2.0
+Modfile:     Mod File: /home/container/mods/StylishEffects-v1.2.1-1.16.5-Forge.jar
+IssueURL:    https://github.com/Fuzss/stylisheffects/issues
+UpdateURL:   https://raw.githubusercontent.com/Fuzss/modresources/main/update/stylisheffects.json
+#######################################################################################
+Name:        NoMoWanderer
+Version:     1.16.5_1.2
+Description: Adds a block and an item that prevents configurable entity spawns.
+Default entities are the Wandering Trader and the Plague Doctor from the Rats mod.
+ModID:       nomowanderer
+Namespace:   nomowanderer
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/nomowanderer_MC1.16.5_1.2.jar
+IssueURL:    https://github.com/J-Dill/NoMoWanderer/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Mowzie's Mobs
+Version:     1.5.27
+Description: Mowzie's Mobs adds a variety of high-quality fantasy creatures to your Minecraft world.
+ModID:       mowziesmobs
+Namespace:   mowziesmobs
+Properties:  {}
+License:     custom
+Modfile:     Mod File: /home/container/mods/mowziesmobs-1.5.27.jar
+IssueURL:    https://github.com/BobMowzie/MowziesMobs/issues
+UpdateURL:   null
+#######################################################################################
+Name:        GeckoLib
+Version:     3.0.106
+Description: GeckoLib is an animation engine for Minecraft Mods, with support for complex 3D keyframe-based animations, 30+ easings, concurrent animation support, sound and particle keyframes, event keyframes, and more.
+ModID:       geckolib3
+Namespace:   geckolib3
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/geckolib-forge-1.16.5-3.0.106.jar
+IssueURL:    https://github.com/bernie-g/geckolib/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Rechiseled
+Version:     1.1.5a
+Description: Rechiseled allows you to exchange between various decorative blocks!
+ModID:       rechiseled
+Namespace:   rechiseled
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/rechiseled-1.1.5a-forge-mc1.16.jar
+IssueURL:    https://github.com/SuperMartijn642/Rechiseled/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Just Enough Items
+Version:     7.8.0.1009
+Description: JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
+ModID:       jei
+Namespace:   jei
+Properties:  {}
+License:     The MIT License (MIT)
+Modfile:     Mod File: /home/container/mods/jei-1.16.5-7.8.0.1009.jar
+IssueURL:    https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue
+UpdateURL:   null
+#######################################################################################
+Name:        Visual Workbench
+Version:     1.1.0
+Description: Items stay inside of crafting tables and are also rendered on top. It's really fancy!
+ModID:       visualworkbench
+Namespace:   visualworkbench
+Properties:  {}
+License:     Mozilla Public License 2.0
+Modfile:     Mod File: /home/container/mods/VisualWorkbench-v1.1.0-1.16.5.jar
+IssueURL:    https://github.com/Fuzss/visualworkbench/issues
+UpdateURL:   null
+#######################################################################################
+Name:        AttributeFix
+Version:     10.1.4
+Description: Allows for attribute ranges to be configured.
+ModID:       attributefix
+Namespace:   attributefix
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/AttributeFix-1.16.5-10.1.4.jar
+IssueURL:    https://github.com/Darkhax-Minecraft/AttributeFix/issues
+UpdateURL:   https://updates.blamejared.com/get?n=attributefix&gv=1.16.5
+#######################################################################################
+Name:        Goblin Traders
+Version:     1.7.3
+Description: Adds goblins that have unique trades to improve your adventure!
+ModID:       goblintraders
+Namespace:   goblintraders
+Properties:  {configuredBackground=minecraft:textures/block/stone.png, catalogueImageIcon=goblintraders_icon.png}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/goblintraders-1.7.3-1.16.5.jar
+IssueURL:    https://github.com/MrCrayfish/GoblinTraders/issues
+UpdateURL:   https://mrcrayfish.com/modupdatejson?id=goblintraders
+#######################################################################################
+Name:        Caelus API
+Version:     1.16.5-2.1.3.2
+Description: A coremod and API to provide developers access to elytra flight mechanics through an entity attribute.
+ModID:       caelus
+Namespace:   caelus
+Properties:  {}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/caelus-forge-1.16.5-2.1.3.2.jar
+IssueURL:    https://github.com/TheIllusiveC4/Caelus/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Paxi
+Version:     1.16.4-1.0
+Description: Drag-and-drop your data packs and let Paxi do the rest! Global data packs made easy.
+ModID:       paxi
+Namespace:   paxi
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/Paxi-Forge-1.16.4-1.0.jar
+IssueURL:    https://github.com/yungnickyoung/Paxi/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Sneaky Magic
+Version:     1.3.2
+Description: Better vanilla enchantments! Use them on more tools and weapons. And curses are now hidden.
+ModID:       sneakymagic
+Namespace:   sneakymagic
+Properties:  {}
+License:     Public Domain
+Modfile:     Mod File: /home/container/mods/SneakyMagic-v1.3.2-1.16.5.jar
+IssueURL:    https://github.com/Fuzss/sneakymagic/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Easy Elytra Takeoff
+Version:     3.0
+Description: Allows easy taking off by elytra with a firework from the ground without that awkward jump.
+ModID:       easyelytratakeoff
+Namespace:   easyelytratakeoff
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/easyelytratakeoff_1.16.5-3.0.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Easy%20Elytra%20Takeoff
+UpdateURL:   null
+#######################################################################################
+Name:        Shutup Experimental Settings!
+Version:     1.0.3
+Description: Turns off the annoying experimental settings prompt before creating a world.
+ModID:       shutupexperimentalsettings
+Namespace:   shutupexperimentalsettings
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/shutupexperimentalsettings-1.0.3.jar
+IssueURL:    https://github.com/CorgiTaco/ShutupExperimentalSettings/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Brick Furnace
+Version:     1.5.2-1.16.1+
+Description: A mod which adds Brick Furnaces.
+ModID:       brickfurnace
+Namespace:   brickfurnace
+Properties:  {}
+License:     The MIT License (MIT)
+Modfile:     Mod File: /home/container/mods/brickfurnace-1.5.2-1.16.1+.jar
+IssueURL:    https://github.com/cech12/BrickShears/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Traveler's Backpack
+Version:     5.4.49
+Description: Traveler's Backpack Mod for Minecraft 1.16.5!
+ModID:       travelersbackpack
+Namespace:   travelersbackpack
+Properties:  {}
+License:     GNU LESSER GENERAL PUBLIC LICENSE
+Modfile:     Mod File: /home/container/mods/TravelersBackpack-1.16.5-5.4.49.jar
+IssueURL:    https://github.com/Tiviacz1337/Travelers-Backpack/issues
+UpdateURL:   https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+#######################################################################################
+Name:        Nature's Compass
+Version:     1.16.5-1.9.1-forge
+Description: Search for a biome and get information about it.
+ModID:       naturescompass
+Namespace:   naturescompass
+Properties:  {}
+License:     CC BY-NC-SA 4.0
+Modfile:     Mod File: /home/container/mods/NaturesCompass-1.16.5-1.9.1-forge.jar
+IssueURL:    https://github.com/MattCzyr/NaturesCompass/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Serene Seasons
+Version:     1.16.5-4.0.1.130
+Description: Adds seasons with changing colors, temperature shifting, and more!
+ModID:       sereneseasons
+Namespace:   sereneseasons
+Properties:  {}
+License:     Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+Modfile:     Mod File: /home/container/mods/SereneSeasons-1.16.5-4.0.1.130-universal.jar
+IssueURL:    https://github.com/Glitchfiend/SereneSeasons/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Sereneseasonfix
+Version:     1.16.5-1.0.5
+Description: A fix for serene seasons
+ModID:       sereneseasonfix
+Namespace:   sereneseasonfix
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/sereneseasonfix-1.16.5-1.0.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Jumpy Boats
+Version:     1.16.5-0.1.0.2
+Description: Makes it possible to jump a little while in a boat to transition from water to ground.
+
+See if you can find a boat.
+ModID:       jumpboat
+Namespace:   jumpboat
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/jumpboat-1.16.5-0.1.0.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Finite Water and Infinite Lava
+Version:     3.1-1.16.3
+Description: Make water finite or lava infinite
+ModID:       finitewater
+Namespace:   finitewater
+Properties:  {}
+License:     no
+Modfile:     Mod File: /home/container/mods/finitewater-3.1-1.16.3.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Stoneholm
+Version:     1.2
+Description: Do you love villages? Ever wonder why no villagers have decided to settle underground in some sort of inhabited Stronghold? Well, you can stop wondering because now they do.
+ModID:       stoneholm
+Namespace:   stoneholm
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/stoneholm-1.2.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Good Night's Sleep
+Version:     1.2.14
+Description: The Good Night's Sleep mod adds two new dimensions, the good dream and the nightmare. Each dream land is accessed through sleeping in its corresponding bed, rather than stepping through a portal.
+ModID:       good_nights_sleep
+Namespace:   good_nights_sleep
+Properties:  {}
+License:     https://moddinglegacy.com/ML-License/
+Modfile:     Mod File: /home/container/mods/good-nights-sleep-1.16.5-1.2.14.jar
+IssueURL:    https://gitlab.com/groups/modding-legacy/-/issues
+UpdateURL:   http://changelogs.moddinglegacy.com/good-nights-sleep.json
+#######################################################################################
+Name:        Curio of Undying
+Version:     1.16.5-5.2.0.0
+Description: Adds curio support for the Totem of Undying so you don't have to be holding it.
+ModID:       curioofundying
+Namespace:   curioofundying
+Properties:  {}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/curioofundying-forge-1.16.5-5.2.0.0.jar
+IssueURL:    https://github.com/TheIllusiveC4/CurioOfUndying/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Snow Under Trees
+Version:     v1.3
+Description: Adds snow under trees in snowy biomes.
+ModID:       snowundertrees
+Namespace:   snowundertrees
+Properties:  {}
+License:     GNU GPL v3.0 https://github.com/bl4ckscor3/SnowUnderTrees/blob/1.16/LICENSE
+Modfile:     Mod File: /home/container/mods/snowundertrees-1.16.5-v1.3.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Athenaeum
+Version:     NONE
+Description: Athenaeum
+ModID:       athenaeum
+Namespace:   athenaeum
+Properties:  {}
+License:     Apache 2.0
+Modfile:     Mod File: /home/container/mods/athenaeum-2.0.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Quests Additions
+Version:     1.4.2
+Description: An addon for the FTB quests mod. It adds some tasks and rewards that are missing in the base mod.
+ModID:       questsadditions
+Namespace:   questsadditions
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/questsadditions-1.16-1.4.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Catalogue
+Version:     1.6.1
+Description: Updates Forge's mod list with a new and improved design
+ModID:       catalogue
+Namespace:   catalogue
+Properties:  {catalogueImageIcon=catalogue.png}
+License:     GPL3
+Modfile:     Mod File: /home/container/mods/catalogue-1.6.1-1.16.5.jar
+IssueURL:    https://github.com/MrCrayfish/Catalogue/issues
+UpdateURL:   https://mrcrayfish.com/modupdatejson?id=catalogue
+#######################################################################################
+Name:        JEI Tweaker
+Version:     1.1.0.49
+Description: Adds JEI integration for CraftTweaker
+ModID:       jeitweaker
+Namespace:   jeitweaker
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/JEITweaker-1.16.5-1.1.0.49.jar
+IssueURL:    null
+UpdateURL:   https://updates.blamejared.com/get?n=JEITweaker&gv=1.16.5
+#######################################################################################
+Name:        Fusion
+Version:     1.1.0
+Description: Fusion allows resource packs to use additional texture and model types such as connected textures!
+ModID:       fusion
+Namespace:   fusion
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/fusion-1.1.0-forge-mc1.16.jar
+IssueURL:    https://github.com/SuperMartijn642/Rechiseled/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Dismount Entity
+Version:     1.5
+Description: Allows players to dismount/remove/exit entities/mobs from mounted entities.
+ModID:       dismountentity
+Namespace:   dismountentity
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/dismountentity_1.16.5-1.5.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Dismount%20Entity
+UpdateURL:   null
+#######################################################################################
+Name:        Memory Leak Fix
+Version:     1.1.2
+Description: A mod which fixes multiple memory leaks, both client-side & server-side
+ModID:       memoryleakfix
+Namespace:   memoryleakfix
+Properties:  {}
+License:     LGPL-2.1-only
+Modfile:     Mod File: /home/container/mods/memoryleakfix-forge-pre1.17-1.1.2.jar
+IssueURL:    https://github.com/fxmorin/memoryleakfix/issues
+UpdateURL:   null
+#######################################################################################
+Name:        CraftTweaker
+Version:     7.1.2.525
+Description: Customize your minecraft experience!
+ModID:       crafttweaker
+Namespace:   crafttweaker
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/CraftTweaker-1.16.5-7.1.2.525.jar
+IssueURL:    https://github.com/CraftTweaker/CraftTweaker/issues
+UpdateURL:   https://updates.blamejared.com/get?n=crafttweaker&gv=1.16.5
+#######################################################################################
+Name:        GameStages
+Version:     7.3.14
+Description: A framework for creating custom progression systems.
+ModID:       gamestages
+Namespace:   gamestages
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/GameStages-Forge-1.16.5-7.3.14.jar
+IssueURL:    https://github.com/Darkhax-Minecraft/Game-Stages
+UpdateURL:   https://updates.blamejared.com/get?n=gamestages&gv=1.16.5
+#######################################################################################
+Name:        Immersive Petroleum
+Version:     3.4.0-20
+Description: Adds oil and oil processing features to Immersive Engineering.
+ModID:       immersivepetroleum
+Namespace:   immersivepetroleum
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/ImmersivePetroleum-1.16.5-3.4.0-20.jar
+IssueURL:    https://github.com/Flaxbeard/ImmersivePetroleum/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Forge
+Version:     36.2.39
+Description: Forge, a broad compatibility API.
+ModID:       forge
+Namespace:   forge
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar
+IssueURL:    http://www.minecraftforge.net/
+UpdateURL:   https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+#######################################################################################
+Name:        Macaw's Paths and Pavings
+Version:     1.0.3
+Description: Adds new vanila styled paths and pavings!
+ModID:       mcwpaths
+Namespace:   mcwpaths
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/mcw-paths-1.0.3forge-mc1.16.5.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+#######################################################################################
+Name:        §3Dynamic Surroundings
+Version:     4.0.5.0
+Description: Adds a variety of §6sound§r and §6visual§r effects to improve your Minecraft experience
+ModID:       dsurround
+Namespace:   dsurround
+Properties:  {}
+License:     GPL-3.0
+Modfile:     Mod File: /home/container/mods/DynamicSurroundings-1.16.5-4.0.5.0.jar
+IssueURL:    https://github.com/OreCruncher/DynamicSurroundings/issues
+UpdateURL:   https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings2/master/version.json
+#######################################################################################
+Name:        §3Dynamic Surroundings: §eSound Control
+Version:     4.0.5.0
+Description: Enhances and gives the player §6control§r over their §2Minecraft§r §6sound experience§r.
+ModID:       sndctrl
+Namespace:   sndctrl
+Properties:  {}
+License:     GPL-3.0
+Modfile:     Mod File: /home/container/mods/DynamicSurroundings-1.16.5-4.0.5.0.jar
+IssueURL:    https://github.com/OreCruncher/DynamicSurroundings/issues
+UpdateURL:   null
+#######################################################################################
+Name:        §3Dynamic Surroundings: §eEnvirons
+Version:     4.0.5.0
+Description: Adds §6sound§r and §6visual§r effects to §6biomes§r
+ModID:       environs
+Namespace:   environs
+Properties:  {}
+License:     GPL-3.0
+Modfile:     Mod File: /home/container/mods/DynamicSurroundings-1.16.5-4.0.5.0.jar
+IssueURL:    https://github.com/OreCruncher/DynamicSurroundings/issues
+UpdateURL:   null
+#######################################################################################
+Name:        §3Dynamic Surroundings: §eMob Effects
+Version:     4.0.5.0
+Description: Giving §6mobs§r and §6players§r special §6sound§r and §6visual§r effects.
+ModID:       mobeffects
+Namespace:   mobeffects
+Properties:  {}
+License:     GPL-3.0
+Modfile:     Mod File: /home/container/mods/DynamicSurroundings-1.16.5-4.0.5.0.jar
+IssueURL:    https://github.com/OreCruncher/DynamicSurroundings/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Iron Chests
+Version:     1.16.5-11.2.21
+Description: New chests with larger sizes, with in-place upgrade items.
+The feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest
+ModID:       ironchest
+Namespace:   ironchest
+Properties:  {}
+License:     GNU General Public License v3.0
+Modfile:     Mod File: /home/container/mods/ironchest-1.16.5-11.2.21.jar
+IssueURL:    https://github.com/progwml6/ironchest/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Minecraft
+Version:     1.16.5
+Description: Minecraft, decompiled and deobfuscated with MCP technology
+ModID:       minecraft
+Namespace:   minecraft
+Properties:  {}
+License:     Mojang Studios, All Rights Reserved
+Modfile:     Mod File: /home/container/libraries/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-server.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Smoothchunk mod
+Version:     2.0
+Description: Spreads chunk saves over time smoothly
+ModID:       smoothchunk
+Namespace:   smoothchunk
+Properties:  {}
+License:     ARR
+Modfile:     Mod File: /home/container/mods/smoothchunk1.16.5-2.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Logprot
+Version:     1.4
+Description: Login protection protects the player from damage during login. Lasts a given time or distance from login.
+ModID:       logprot
+Namespace:   logprot
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/logprot-1.16-1.6.jar
+IssueURL:    https://github.com/ldtteam/Logprot/issues/new
+UpdateURL:   null
+#######################################################################################
+Name:        Simple Voice Chat
+Version:     1.16.5-2.4.27
+Description: A working voice chat in Minecraft!
+ModID:       voicechat
+Namespace:   voicechat
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/voicechat-forge-1.16.5-2.4.27.jar
+IssueURL:    https://github.com/henkelmax/simple-voice-chat/issues
+UpdateURL:   https://maxhenkel.de/update/voicechat.json
+#######################################################################################
+Name:        Mouse Tweaks
+Version:     2.14
+Description: A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons.
+ModID:       mousetweaks
+Namespace:   mousetweaks
+Properties:  {}
+License:     BSD-3-Clause
+Modfile:     Mod File: /home/container/mods/MouseTweaks-2.14-mc1.16.2.jar
+IssueURL:    https://github.com/YaLTeR/MouseTweaks/issues
+UpdateURL:   http://play.sourceruns.org/yalter/MouseTweaks/update.json
+#######################################################################################
+Name:        Nutritious Milk
+Version:     2.1
+Description: Adds a nutritious value to milk, filling up the food bar and saturation when consumed.
+ModID:       nutritiousmilk
+Namespace:   nutritiousmilk
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/nutritiousmilk_1.16.5-2.1.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Nutritious%20Milk
+UpdateURL:   null
+#######################################################################################
+Name:        Damp Soil
+Version:     1.16.5-1.0.1
+Description: Introduces some changes to how farmland works, how crops grow and a couple other things. Also comes with sprinklers for all your sprinkly needs!
+ModID:       dampsoil
+Namespace:   dampsoil
+Properties:  {}
+License:     MIT license
+Modfile:     Mod File: /home/container/mods/damp-soil-1.16.5-1.0.1.jar
+IssueURL:    https://github.com/Sarinsa/Damp-Soil/issues
+UpdateURL:   null
+#######################################################################################
+Name:        把锭放在地上吧！ Put Ingot Down!
+Version:     1.16.5-1.1.1
+Description: 把锭整齐的堆砌起来是多么浪漫！
+现在，你可以手持各种锭在潜行状态下右击地面把锭放在地上，直接右击取回锭。
+Now, you can right-click on the ground while sneaking with various ingots to place the ingot, and directly right-click to retrieve the ingot.
+ModID:       putingotdown
+Namespace:   putingotdown
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/putingotdown-1.16.5-1.1.1.jar
+IssueURL:    https://gitee.com/anecansaitin/AE-PutIngotDown
+UpdateURL:   null
+#######################################################################################
+Name:        Gates
+Version:     1.7.1
+Description: A mod about redstone gates. And other redstone stuff.
+ModID:       gates
+Namespace:   gates
+Properties:  {}
+License:     The MIT License (MIT)
+Modfile:     Mod File: /home/container/mods/gates-1.7.1.jar
+IssueURL:    https://github.com/SE7-KN8/gates/issues/
+UpdateURL:   null
+#######################################################################################
+Name:        Ding
+Version:     1.3.0
+Description: Plays a sound once the client has loaded to the main menu or loaded the world
+ModID:       ding
+Namespace:   ding
+Properties:  {}
+License:     GNU Lesser General Public License v3.0
+Modfile:     Mod File: /home/container/mods/Ding-1.16.5-1.3.0.jar
+IssueURL:    https://github.com/iChun/Ding/issues
+UpdateURL:   null
+#######################################################################################
+Name:        AstikorCarts
+Version:     1.1.1
+Description: This mod adds carts that can be pulled by other entities to the game.
+To attach an entity, press the "Action Key" specified in the controls.
+
+You might have to add the entity in the config file first.
+ModID:       astikorcarts
+Namespace:   astikorcarts
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/astikorcarts-1.16.5-1.1.1.jar
+IssueURL:    https://github.com/MennoMax/astikor-carts/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Armor Underwear
+Version:     2.0b11
+Description: Give your armor under and over wear that provides unique benefits like temperature shielding or camouflage
+ModID:       armorunder
+Namespace:   armorunder
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/armorunder-mc1.16.5-2.0b11.jar
+IssueURL:    https://github.com/Wabbit0101/mods_hoardercraft/issues
+UpdateURL:   http://jwaresoftware.org/files/mcmods/versions/armorunder.json
+#######################################################################################
+Name:        Mantle
+Version:     1.6.157
+Description: Shared code for Slime Knights mods and others.
+ModID:       mantle
+Namespace:   mantle
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Mantle-1.16.5-1.6.157.jar
+IssueURL:    https://github.com/SlimeKnights/Mantle/issues
+UpdateURL:   null
+#######################################################################################
+Name:        FTB Backups
+Version:     2.1.2.2
+Description: Creates backups of your world
+ModID:       ftbbackups
+Namespace:   ftbbackups
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/ftb-backups-2.1.2.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Cycle Paintings
+Version:     2.7
+Description: Easily cycle through placed paintings by right-clicking them with another painting.
+ModID:       cyclepaintings
+Namespace:   cyclepaintings
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/cyclepaintings_1.16.5-2.7.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Cycle%20Paintings
+UpdateURL:   null
+#######################################################################################
+Name:        Polymorph
+Version:     1.16.5-0.41
+Description: No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.
+ModID:       polymorph
+Namespace:   polymorph
+Properties:  {}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/polymorph-forge-1.16.5-0.41.jar
+IssueURL:    https://github.com/TheIllusiveC4/Polymorph/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Just Enough Professions (JEP)
+Version:     1.2.2
+Description: Adds info about professions to JEI
+ModID:       justenoughprofessions
+Namespace:   justenoughprofessions
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/JustEnoughProfessions-1.16.5-1.2.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        AutoRegLib
+Version:     1.6-49
+Description: Automatically item, block, and model registration for mods.
+ModID:       autoreglib
+Namespace:   autoreglib
+Properties:  {}
+License:     https://github.com/Vazkii/AutoRegLib/blob/master/README.md
+Modfile:     Mod File: /home/container/mods/AutoRegLib-1.6-49.jar
+IssueURL:    https://github.com/Vazkii/AutoRegLib
+UpdateURL:   null
+#######################################################################################
+Name:        Sit
+Version:     v1.3.2
+Description: Allows you to sit on slabs and stairs.
+ModID:       sit
+Namespace:   sit
+Properties:  {}
+License:     GNU GPL v3.0 https://github.com/bl4ckscor3/Sit/blob/1.16/LICENSE
+Modfile:     Mod File: /home/container/mods/sit-1.16.5-v1.3.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Earth Mobs Mod
+Version:     1.16.4-0.4.2
+Description: Adds Content from the spinoff game Minecraft Earth!
+ModID:       earthmobsmod
+Namespace:   earthmobsmod
+Properties:  {}
+License:     GNU General Public License
+Modfile:     Mod File: /home/container/mods/earthmobsmod-1.16.4-0.4.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Direbats
+Version:     1.1.1+1.16.5-forge
+Description: Direbats - adds Direbats!
+
+        You can typically find these bats living in the darkest of caves. However, during full moons, they will spawn on the surface. Be careful to shine any lights at them or else they’ll attack! They can also steal your items, so watch out!
+ModID:       direbats
+Namespace:   direbats
+Properties:  {}
+License:     https://github.com/teamhollow/direbats/blob/HEAD/LICENSE
+Modfile:     Mod File: /home/container/mods/direbats-1.1.1+1.16.5-forge.jar
+IssueURL:    null
+UpdateURL:   https://teamhollow.net/data/update/direbats.json
+#######################################################################################
+Name:        Hardcore Revival
+Version:     6.0.1
+Description: Help your friends back up after they die (if you can make it in time)
+ModID:       hardcorerevival
+Namespace:   hardcorerevival
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/HardcoreRevival_1.16.5-6.0.1.jar
+IssueURL:    https://github.com/blay09/HardcoreRevival/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Structurize
+Version:     1.16.5-1.0.454-ALPHA
+Description: An astonishing way to copy & paste structures!
+
+Allows you to:
+ - save structures of your choice into a file of small size
+ - load them back and place them anywhere anytime
+ - create various shapes using math formulas
+ - and many other nice things a great builder would love to have!
+ModID:       structurize
+Namespace:   structurize
+Properties:  {}
+License:     GPL 3.0
+Modfile:     Mod File: /home/container/mods/structurize-1.16.5-1.0.454-ALPHA.jar
+IssueURL:    https://github.com/ldtteam/structurize/issues/new/choose
+UpdateURL:   null
+#######################################################################################
+Name:        FastFurnace
+Version:     4.5.0
+Description: Furnacing things faster, performance-wise
+ModID:       fastfurnace
+Namespace:   fastfurnace
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/FastFurnace-1.16.5-4.5.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Titles
+Version:     1.16.5-3.4.3
+Description: Adds unlockable titles than you can display next to your name!
+ModID:       titles
+Namespace:   titles
+Properties:  {}
+License:     GPL v3
+Modfile:     Mod File: /home/container/mods/Titles-1.16.5-3.4.4.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/Aurilux/Titles/master/update.json
+#######################################################################################
+Name:        AppleSkin
+Version:     2.5.1+mc1.16.4
+Description: Adds various food-related HUD improvements
+ModID:       appleskin
+Namespace:   appleskin
+Properties:  {}
+License:     The Unlicense
+Modfile:     Mod File: /home/container/mods/appleskin-forge-mc1.16.x-2.5.1.jar
+IssueURL:    https://github.com/squeek502/AppleSkin
+UpdateURL:   null
+#######################################################################################
+Name:        Connected Glass
+Version:     1.1.8
+Description: Connected Glass adds new types of glass with connecting textures!
+ModID:       connectedglass
+Namespace:   connectedglass
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/connectedglass-1.1.8-forge-mc1.16.jar
+IssueURL:    https://github.com/SuperMartijn642/ConnectedGlass/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Puzzles Lib
+Version:     1.0.15
+Description: Why's it called Puzzles you ask? That's the puzzle!
+ModID:       puzzleslib
+Namespace:   puzzleslib
+Properties:  {configuredBackground=minecraft:textures/block/cobblestone.png, catalogueImageIcon=mod_logo.png}
+License:     Mozilla Public License 2.0
+Modfile:     Mod File: /home/container/mods/PuzzlesLib-v1.0.15-1.16.5-Forge.jar
+IssueURL:    https://github.com/Fuzss/puzzleslib/issues
+UpdateURL:   https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+#######################################################################################
+Name:        Cold Sweat
+Version:     2.2
+Description: Cold Sweat is a highly-extensible temperature mod for Minecraft. See the documentation here:
+https://mikul.gitbook.io/cold-sweat/
+ModID:       cold_sweat
+Namespace:   cold_sweat
+Properties:  {}
+License:     GNU General Public License v3.1
+Modfile:     Mod File: /home/container/mods/ColdSweat-2.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Aquaculture 2
+Version:     1.16.5-2.1.23
+Description: Welcome to Aquaculture! An expansion of Minecraft's fishing system.
+ModID:       aquaculture
+Namespace:   aquaculture
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/Aquaculture-1.16.5-2.1.23.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        FriendlyFire
+Version:     7.0.6
+Description: Prevents friendly mobs from taking accidental damage.
+ModID:       friendlyfire
+Namespace:   friendlyfire
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/FriendlyFire-1.16.5-7.0.6.jar
+IssueURL:    https://github.com/Darkhax-Minecraft/Friendly-Fire/issues
+UpdateURL:   https://updates.blamejared.com/get?n=friendlyfire&gv=1.16.5
+#######################################################################################
+Name:        Waterworks
+Version:     1.16.3-2.2.4
+Description: Waterworks adds serveral water collecting mechanics and other gadgets.
+ModID:       waterworks
+Namespace:   waterworks
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/waterworks-1.16.x-2.2.4.jar
+IssueURL:    https://github.com/Terpo/Waterworks/issues
+UpdateURL:   null
+#######################################################################################
+Name:        CosmeticArmorReworked
+Version:     1.16.5-v5
+Description: This mod allows you to wear two sets of armor, one for display, one for function. You can also hide armor for your skin. For PVP, you can stop the mod from functioning on your client side.
+ModID:       cosmeticarmorreworked
+Namespace:   cosmeticarmorreworked
+Properties:  {}
+License:     Minecraft Mod Public License 1.0.1
+Modfile:     Mod File: /home/container/mods/CosmeticArmorReworked-1.16.5-v5.jar
+IssueURL:    https://github.com/zlainsama/CosmeticArmorReworked/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Well Mod
+Version:     1.0.0
+Description: Adds a well block for pumping water!
+ModID:       well
+Namespace:   well
+Properties:  {}
+License:     Apache License 2.0
+Modfile:     Mod File: /home/container/mods/well-1.16.5-1.0.0.jar
+IssueURL:    https://github.com/cubicoder/Well-Mod/issues
+UpdateURL:   https://raw.githubusercontent.com/cubicoder/Versions/main/well-update.json
+#######################################################################################
+Name:        HT's TreeChop
+Version:     0.14.6
+Description: Makes trees more choppable.
+ModID:       treechop
+Namespace:   treechop
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/TreeChop-1.16.4-0.14.6-fixed.jar
+IssueURL:    https://github.com/hammertater/treechop/issues
+UpdateURL:   https://raw.githubusercontent.com/hammertater/treechop/main/update.json
+#######################################################################################
+Name:        Dungeons Mod
+Version:     1.16.3-1.4.43
+Description: Adds Dungeons, Bosses and more.
+ModID:       dungeonsmod
+Namespace:   dungeonsmod
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/DungeonsMod-1.16.3-1.4.43.jar
+IssueURL:    https://github.com/dainxt/DungeonsMod-Issue-Tracker/issues
+UpdateURL:   https://raw.githubusercontent.com/dainxt/DungeonsMod-Issue-Tracker/master/update.json
+#######################################################################################
+Name:        Compost
+Version:     1.2.0
+Description: Make composters turn your food waste into whatever you want!
+ModID:       compost
+Namespace:   compost
+Properties:  {}
+License:     GNU Lesser General Public License v3.0
+Modfile:     Mod File: /home/container/mods/compost-forge-1.16.5-1.2.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Weeping Angels
+Version:     36.0.1
+Description: Mod that adds the terrifying Weeping Angel creatures to Minecraft || Originally made for ModJam 5
+ModID:       weeping_angels
+Namespace:   weeping_angels
+Properties:  {}
+License:     https://github.com/WhoCraft/Weeping-Angels/blob/1.16/LICENSE
+Modfile:     Mod File: /home/container/mods/weeping_angels-36.0.1.jar
+IssueURL:    https://github.com/WhoCraft/Weeping-Angels/issues
+UpdateURL:   https://mc-api.craig.software/update?mod=weeping_angels
+#######################################################################################
+Name:        InControl
+Version:     1.16-5.2.12
+Description: Be in control of spawns
+ModID:       incontrol
+Namespace:   incontrol
+Properties:  {}
+License:     MIT License https://github.com/McJtyMods/FXControl/blob/1.16/LICENCE
+Modfile:     Mod File: /home/container/mods/incontrol-1.16-5.2.12.jar
+IssueURL:    http://github.com/McJtyMods/InControl/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Connectivity Mod
+Version:     2.4-1.16.5
+Description: Lightweight mod which solves connection and packet size issues.
+ModID:       connectivity
+Namespace:   connectivity
+Properties:  {}
+License:     ARR
+Modfile:     Mod File: /home/container/mods/connectivity-2.4-1.16.5.jar
+IssueURL:    http://my.issue.tracker/
+UpdateURL:   null
+#######################################################################################
+Name:        KleeSlabs
+Version:     9.2.1
+Description: Allows only breaking one half of a double slab.
+ModID:       kleeslabs
+Namespace:   kleeslabs
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/KleeSlabs_1.16.5-9.2.1.jar
+IssueURL:    https://github.com/blay09/KleeSlabs/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Gauges and Switches
+Version:     1.2.17
+Description: Adds redstone metering gauges, levers, buttons, pressure plates, and all sorts of other sensors and detector switches to the game.
+ModID:       rsgauges
+Namespace:   rsgauges
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/rsgauges-1.16.5-1.2.17.jar
+IssueURL:    https://github.com/stfwi/rsgauges/issues/
+UpdateURL:   https://raw.githubusercontent.com/stfwi/rsgauges/versions/forge-1.16.5.json
+#######################################################################################
+Name:        InsaneLib
+Version:     1.4.2
+Description: A Library mod used by Insane's Mods
+ModID:       insanelib
+Namespace:   insanelib
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/InsaneLib-1.4.2-mc1.16.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Villager Names
+Version:     4.3
+Description: A minimalistic mod which gives all unnamed villagers a (pre-)defined name.
+ModID:       villagernames
+Namespace:   villagernames
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/villagernames_1.16.5-4.3.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Villager%20Names
+UpdateURL:   null
+#######################################################################################
+Name:        TerraForged
+Version:     0.2.16
+Description: Description:
+ A terrain generator!
+ModID:       terraforged
+Namespace:   terraforged
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/TerraForged-1.16.5-0.2.16.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Realistic Bees
+Version:     2.8
+Description: Makes bees more realistic without adding new objects. Bees are tiny! They have a chance to lose their stinger when stinging a player or entity, and will die after doing so. Stingers can be stuck in players and will need shears to be taken out to prevent further poisoning.
+ModID:       realisticbees
+Namespace:   realisticbees
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/realisticbees_1.16.5-2.8.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Realistic%20Bees
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Furnitures - BOP
+Version:     1.16.5-1.3
+Description: Compatibility between Macaw's Furnitures and Biome O' Plenty for Minecraft 1.16.5 !
+ModID:       mcwfurnituresbop
+Namespace:   mcwfurnituresbop
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/mcwfurnituresbop-1.16.5-1.3.jar
+IssueURL:    https://github.com/Samlegamer/Macaw-s-Furnitures-Compat/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Controlling
+Version:     7.0.0.29
+Description: Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu.
+ModID:       controlling
+Namespace:   controlling
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Controlling-7.0.0.29.jar
+IssueURL:    https://github.com/jaredlll08/Controlling/issues
+UpdateURL:   https://updates.blamejared.com/get?n=controlling&gv=1.16.5
+#######################################################################################
+Name:        Placebo
+Version:     4.7.1
+Description: 1 (one) library boi
+ModID:       placebo
+Namespace:   placebo
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/Placebo-1.16.5-4.7.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Citadel
+Version:     1.8.1
+Description: A shared code library for many of Alexthe666's mods.
+Code used from LLibrary with permission.
+ModID:       citadel
+Namespace:   citadel
+Properties:  {}
+License:     GNU LESSER GENERAL PUBLIC LICENSE
+Modfile:     Mod File: /home/container/mods/citadel-1.8.1-1.16.5.jar
+IssueURL:    https://github.com/Alex-the-666/Citadel/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Alex's Mobs
+Version:     1.12.1
+Description: New, original, engaging, and aesthetic mobs for Minecraft.
+ModID:       alexsmobs
+Namespace:   alexsmobs
+Properties:  {}
+License:     GNU LESSER GENERAL PUBLIC LICENSE
+Modfile:     Mod File: /home/container/mods/alexsmobs-1.12.1.jar
+IssueURL:    https://github.com/Alex-the-666/AlexsMobs/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Ice and Fire
+Version:     2.1.12-1.16.5-patch-1
+Description: Dragons and other mythological creatures in minecraft.
+ModID:       iceandfire
+Namespace:   iceandfire
+Properties:  {}
+License:     GNU LESSER GENERAL PUBLIC LICENSE
+Modfile:     Mod File: /home/container/mods/iceandfire-2.1.12-1.16.5-patch-1.jar
+IssueURL:    https://github.com/Alex-the-666/ice-and-fire/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Rats
+Version:     7.2.0
+Description: What are we going to do today Pinky?
+ModID:       rats
+Namespace:   rats
+Properties:  {}
+License:     GNU LESSER GENERAL PUBLIC LICENSE
+Modfile:     Mod File: /home/container/mods/rats-7.2.0-1.16.5.jar
+IssueURL:    https://github.com/Alex-the-666/Rats/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Zombie Awareness
+Version:     1.16.5-1.12
+Description: Adds sound and smell awareness to mobs
+ModID:       zombieawareness
+Namespace:   zombieawareness
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/zombieawareness-1.16.5-1.12.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Mutant Beasts
+Version:     1.16.4-1.1.3
+Description: Mutant Beasts brings back the popular Mutant Creatures mod to modern Minecraft.
+ModID:       mutantbeasts
+Namespace:   mutantbeasts
+Properties:  {}
+License:     GNU Affero General Public License v3.0
+Modfile:     Mod File: /home/container/mods/MutantBeasts-1.16.4-1.1.3.jar
+IssueURL:    https://www.curseforge.com/minecraft/mc-mods/mutant-beasts/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Bookshelf
+Version:     10.4.33
+Description: A library for building other mods.
+ModID:       bookshelf
+Namespace:   bookshelf
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/Bookshelf-Forge-1.16.5-10.4.33.jar
+IssueURL:    https://github.com/Darkhax-Minecraft/Bookshelf/issues
+UpdateURL:   https://updates.blamejared.com/get?n=bookshelf&gv=1.16.5
+#######################################################################################
+Name:        BetterDrowning
+Version:     2.0.4
+Description: Improves the drowning mechanics of Minecraft.
+ModID:       betterdrowning
+Namespace:   betterdrowning
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/BetterDrowning-1.16.5-2.0.4.jar
+IssueURL:    https://github.com/Darkhax-Minecraft/Better-Drowning/issues
+UpdateURL:   https://updates.blamejared.com/get?n=betterdrowning&gv=1.16.5
+#######################################################################################
+Name:        Tips
+Version:     4.0.18
+Description: Adds tips to various loading screens.
+ModID:       tips
+Namespace:   tips
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/Tips-1.16.5-4.0.18.jar
+IssueURL:    https://github.com/Darkhax-Minecraft/Tips/issues
+UpdateURL:   https://updates.blamejared.com/get?n=tips&gv=1.16.5
+#######################################################################################
+Name:        Item Zoom Rekindled
+Version:     2.2.1
+Description: This client-side mod shows a big version of whatever item you hover over.
+Great for builders looking for the right materials!
+ModID:       itemzoom
+Namespace:   itemzoom
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/itemzoom-1.16.x-2.2.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Waddles
+Version:     1.16.5-0.8.13
+Description: Waddles adds somewhat realistic Adélie penguins that waddle.
+ModID:       waddles
+Namespace:   waddles
+Properties:  {}
+License:     All Right Reserved
+Modfile:     Mod File: /home/container/mods/Waddles-1.16.5-0.8.13.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Progressive Bosses
+Version:     3.4.3
+Description: Make Bosses harder the more you respawn them. Adding Health, Armor and some Abilities.
+ModID:       progressivebosses
+Namespace:   progressivebosses
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/ProgressiveBosses-3.4.3-mc1.16.5.jar
+IssueURL:    https://github.com/Insane96/ProgressiveBosses/issues/
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Doors
+Version:     1.1.0
+Description: Adds a lot of new Doors! With vanila and unique styles.
+ModID:       mcwdoors
+Namespace:   mcwdoors
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/mcw-doors-1.1.0forge-mc1.16.5.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+#######################################################################################
+Name:        Just Enough Effect Descriptions
+Version:     1.16.5-1.6
+Description: A JEI plugin that displays all status effects and how to obtain them
+ModID:       jeed
+Namespace:   jeed
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/jeed-1.16.5-1.6.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Forge Essentials
+Version:     16.0
+Description: A suite of server mods for Minecraft Forge
+ModID:       forgeessentials
+Namespace:   forgeessentials
+Properties:  {}
+License:     GNU General Public License v3.0
+Modfile:     Mod File: /home/container/mods/forgeessentials-1.16.5-16.0.3-server.jar
+IssueURL:    https://github.com/ForgeEssentials/ForgeEssentials/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Bygone Nether
+Version:     1.3.2
+Description: Remnants of the nether dimension's ancient history
+ModID:       bygonenether
+Namespace:   bygonenether
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/bygonenether-1.3.2-1.16.5.jar
+IssueURL:    https://github.com/izofar/bygone-nether/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Keep My Soil Tilled
+Version:     1.6
+Description: Keeps soil tilled below a stem block (melon/pumpkin) after harvesting.
+ModID:       keepmysoiltilled
+Namespace:   keepmysoiltilled
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/keepmysoiltilled_1.16.5-1.6.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Keep%20My%20Soil%20Tilled
+UpdateURL:   null
+#######################################################################################
+Name:        Pollution of the Realms
+Version:     4.2.1.1
+Description: Adds environmental pollution mechanics to the game.
+ModID:       adpother
+Namespace:   adpother
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/AdPother-1.16.5-4.2.1.1-build.0351.jar
+IssueURL:    https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Camera Overhaul
+Version:     1.0.0
+Description: Makes gameplay more satisfying through the use of various camera tilting. Compatible with everything.
+Configurable through the '.minecraft/config/cameraoverhaul.json' file for finer control.
+ModID:       cameraoverhaul
+Namespace:   cameraoverhaul
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/cameraoverhaul-1.0-1.16.4.jar
+IssueURL:    https://github.com/CorgiTaco/Minecraft-CameraOverhaul/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Roofs - BOP
+Version:     1.16.5-1.8
+Description: Compatibility between Macaw's Roofs and Biome O' Plenty for Minecraft 1.16.5 !
+ModID:       macawsroofsbop
+Namespace:   macawsroofsbop
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/macawsroofsbop-1.16.5-1.8.jar
+IssueURL:    https://github.com/Samlegamer/Macaw-s-Roofs-Compat/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Mineral Chance
+Version:     1.6
+Description: Adds a chance to find a random mineral inside a stone block when mining.
+ModID:       mineralchance
+Namespace:   mineralchance
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/mineralchance_1.16.5-1.6.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Mineral%20Chance
+UpdateURL:   null
+#######################################################################################
+Name:        Air Hop
+Version:     1.4.3
+Description: A new enchantment for jumping multiple times. What more could you want in life?
+ModID:       airhop
+Namespace:   airhop
+Properties:  {}
+License:     Public Domain
+Modfile:     Mod File: /home/container/mods/AirHop-v1.4.3-1.16.5.jar
+IssueURL:    https://github.com/Fuzss/airhop/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Equipment Compare
+Version:     1.3.2
+Description: Adds additional tooltips when hovering over equipment for easy comparisons.
+ModID:       equipmentcompare
+Namespace:   equipmentcompare
+Properties:  {}
+License:     CC BY-NC-ND 4.0
+Modfile:     Mod File: /home/container/mods/EquipmentCompare-1.16.5-1.3.2.jar
+IssueURL:    null
+UpdateURL:   https://mc-update-check.anthonyhilyard.com/502561
+#######################################################################################
+Name:        Chipped
+Version:     1.16.5-1.2.1-forge
+Description: 
+ModID:       chipped
+Namespace:   chipped
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/chipped-1.16.5-1.2.1-forge.jar
+IssueURL:    https://github.com/CookieCNetwork/Chipped/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Ore Tweaker
+Version:     2.0.0
+Description: 
+ModID:       oretweaker
+Namespace:   oretweaker
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/OreTweaker-1.16.5-2.0.0.jar
+IssueURL:    https://github.com/EwyBoy/OreTweaker/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Bridges
+Version:     2.1.0
+Description: Connect the world with bridges!
+ModID:       mcwbridges
+Namespace:   mcwbridges
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/mcw-bridges-2.1.0-mc1.16.5forge.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+#######################################################################################
+Name:        Farmer's Delight
+Version:     1.16.5-0.6.0
+Description: A lightweight farming and cooking expansion for Minecraft!
+ModID:       farmersdelight
+Namespace:   farmersdelight
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/FarmersDelight-1.16.5-0.6.0.jar
+IssueURL:    https://github.com/vectorwing/FarmersDelight/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Steel's Delight
+Version:     1.2
+Description: Adds a Steel Knife to Farmer's Delight.
+ModID:       steelsdelight
+Namespace:   steelsdelight
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/SteelsDelight-1.16.5-1.2.jar
+IssueURL:    https://github.com/onVoid/SteelsDelight/issues
+UpdateURL:   https://onvoid.net/steelsdelight/update.json
+#######################################################################################
+Name:        Farmer's Respite
+Version:     1.16.5-1.1
+Description: An addon created by Umpaz, HoboJoe, and SoyTutta for the Farmer's Delight mod by vectorwing. Attempts to add tea and ways to brew it, as well as some other foods!
+ModID:       farmersrespite
+Namespace:   farmersrespite
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/farmersrespite-1.16.5-1.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Curious Armor Stands
+Version:     1.16.5-2.2.0
+Description: Allows armor stands to display curios
+ModID:       curious_armor_stands
+Namespace:   curious_armor_stands
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Curious Armor Stands-1.16.5-2.2.0.jar
+IssueURL:    https://github.com/ochotonida/curious-armor-stands/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Camo Creepers
+Version:     1.2.0
+Description: Creepers that blend in more with the environment
+ModID:       camocreepers
+Namespace:   camocreepers
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/CamoCreepers-1.16.5-1.2.0.jar
+IssueURL:    https://github.com/Mrbysco/CamoCreepers
+UpdateURL:   null
+#######################################################################################
+Name:        Launchers
+Version:     3.2.1
+Description: Bored of slow and annoying water elevator?
+
+Looking for a player launcher to easily launch with your Elytra?
+
+This mod introduces three Launcher Blocks that allows the player to easily create fast two-way elevators, Elytra launchers and more in a Vanilla-friendly way.
+
+Launchers are capable of launching every entity, providing a fast, reliable and easy vertical transportation for NPCs and items.
+ModID:       launchersmodforge
+Namespace:   launchersmodforge
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/launchersmodforge-3.2.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Simple Shops
+Version:     1.1.3
+Description: A simple shop mod
+ModID:       simpleshops
+Namespace:   simpleshops
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/simpleshops-1.1.3.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Project: Vibrant Journeys
+Version:     1.16.5-3.2.11
+Description: Spices up your world with vanilla-style additions!
+ModID:       projectvibrantjourneys
+Namespace:   projectvibrantjourneys
+Properties:  {}
+License:     lol
+Modfile:     Mod File: /home/container/mods/projectvibrantjourneys-1.16.5-3.2.11.jar
+IssueURL:    https://github.com/OrderedChaos-Dev/ProjectVibrantJourneys/issues
+UpdateURL:   null
+#######################################################################################
+Name:        End Remastered
+Version:     5.0.3-R-1.16.5
+Description: End Remastered makes your Minecraft experience more challenging by emphasizing the adventurous side of the game.
+
+
+Exploration is the main focus of End Remastered, and to reach the End and beat the Ender Dragon, you will have to find the 12 custom eyes by exploring vanilla structures and fighting vanilla bosses.
+
+Once you have all the eyes, you have the choice to follow them until you reach an End Gate or to trade with a Cartographer to obtain a map to the End Castle.
+
+After reaching one of these structures, you will have to find the hidden portal room, and activate the portal by placing the 12 eyes inside the frames.
+ModID:       endrem
+Namespace:   endrem
+Properties:  {}
+License:     GNU LGPLv3
+Modfile:     Mod File: /home/container/mods/endrem-5.0.3-R-1.16.X.jar
+IssueURL:    https://github.com/Team-Remastered/End-Remastered-Forge/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Boat Item View
+Version:     0.0.2
+Description: The Boat Item View mod allows you to view your held items whilst sitting in a moving boat.
+ModID:       boatiview
+Namespace:   boatiview
+Properties:  {}
+License:     https://raw.githubusercontent.com/50ap5ud5/BoatItemView/1.16.x-forge/LICENSE
+Modfile:     Mod File: /home/container/mods/Boat-Item-View-Forge-1.16.5-0.0.2.jar
+IssueURL:    https://github.com/50ap5ud5/BoatItemView/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Macaw's Fences and Walls
+Version:     1.0.7
+Description: Adds new vanila styled fences, walls and gates.
+ModID:       mcwfences
+Namespace:   mcwfences
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/mcw-fences-1.0.7-mc1.16.5forge.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+#######################################################################################
+Name:        Macaw's Fences - BOP
+Version:     1.16.5-1.3
+Description: Compatibility between Macaw's Fences and Biome O' Plenty for Minecraft 1.16.5 !
+ModID:       mcwfencesbop
+Namespace:   mcwfencesbop
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/mcwfencesbop-1.16.5-1.3.jar
+IssueURL:    https://github.com/Samlegamer/Macaw-s-Fences-Compat/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Rare Ice
+Version:     version
+Description: Adds rare ice into the world. Can you find them?
+ModID:       rare-ice
+Namespace:   rare-ice
+Properties:  {}
+License:     Creative Commons Attribution-NonCommercial 4.0 International Public License
+Modfile:     Mod File: /home/container/mods/rare-ice-0.2.2.jar
+IssueURL:    https://github.com/shedaniel/rare-ice/issues/
+UpdateURL:   null
+#######################################################################################
+Name:        Born in Chaos 
+Version:     1.0.0
+Description: MISSING DESCRIPTION
+ModID:       born_in_chaos_v1
+Namespace:   born_in_chaos_v1
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/born_in_chaos_1.16_1.3.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Adventure Apparatus
+Version:     1.5.1
+Description: Adds a variety of tools and equipment to enhance player mobility and exploration.
+ModID:       adventureapparatus
+Namespace:   adventureapparatus
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/adventureapparatus-1.5.1.jar
+IssueURL:    https://github.com/olihewi/Adventure-Apparatus/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Eyes in the Darkness
+Version:     1.0.6
+Description: Those eyes you think you saw when walking through the forest at night. No, you did not imagine them.
+ModID:       eyesinthedarkness
+Namespace:   eyesinthedarkness
+Properties:  {}
+License:     BSD (3 clause)
+Modfile:     Mod File: /home/container/mods/EyesInTheDarkness-1.16.5-1.0.6.jar
+IssueURL:    https://github.com/gigaherz/EyesInTheDarkness/issues
+UpdateURL:   null
+#######################################################################################
+Name:        TrackAPI
+Version:     1.2
+Description: A common track interface for minecraft forge
+ModID:       trackapi
+Namespace:   trackapi
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/TrackAPI-1.16.4-forge-1.2.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        DimensionStages
+Version:     3.0.4
+Description: Allows access to dimensions to be restricted through GameStages.
+ModID:       dimstages
+Namespace:   dimstages
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/DimensionStages-1.16.5-3.0.4.jar
+IssueURL:    https://github.com/Darkhax-Minecraft/DimensionStages/issues
+UpdateURL:   https://updates.blamejared.com/get?n=dimstages&gv=1.16.5
+#######################################################################################
+Name:        GoProne
+Version:     1.16.4-1.3.5
+Description: Just adds a keybind (default "C") which sets the player to the crawling pose, allowing them to sneak through 1-block high gaps, without needing to squash something on top of them
+
+When you are allowed to go prone is configurable server side (i.e. in the save folder/serverconfig).
+ModID:       goprone
+Namespace:   goprone
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/goprone-1.16.4-1.3.5.jar
+IssueURL:    https://github.com/Alpvax/GoProne/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Patchouli
+Version:     1.16.4-53.3
+Description: Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers
+ModID:       patchouli
+Namespace:   patchouli
+Properties:  {}
+License:     CC BY-NC-SA 3.0
+Modfile:     Mod File: /home/container/mods/Patchouli-1.16.4-53.3.jar
+IssueURL:    https://github.com/Vazkii/Patchouli
+UpdateURL:   null
+#######################################################################################
+Name:        Naturally Charged Creepers
+Version:     2.3
+Description: Allows creepers to spawn charged naturally, increasing the game's difficulty.
+ModID:       naturallychargedcreepers
+Namespace:   naturallychargedcreepers
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/naturallychargedcreepers_1.16.5-2.3.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Naturally%20Charged%20Creepers
+UpdateURL:   null
+#######################################################################################
+Name:        Collective
+Version:     5.49
+Description: Collective is a shared library with common code for all of Serilum's mods.
+ModID:       collective
+Namespace:   collective
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/collective-1.16.5-5.49.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Library%3A%20Collective
+UpdateURL:   null
+#######################################################################################
+Name:        HT's TreePlant
+Version:     0.3.0
+Description: Let saplings plant themselves.
+ModID:       treeplant
+Namespace:   treeplant
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/TreePlant-1.16.x-0.3.0.jar
+IssueURL:    https://github.com/hammertater/treeplant/issues
+UpdateURL:   https://raw.githubusercontent.com/hammertater/treeplant/main/update.json
+#######################################################################################
+Name:        BlockCarpentry
+Version:     1.16-0.5.1
+Description: Fork Mod of Carpenter's Blocks Mod created by Mineshopper (owner of the idea) for older versions of Minecraft.
+I created this fork because friends of mine would like to play this mod on 1.15 (and me too).
+
+Right now there is no guide for this mod, so here is one in small form:
+- Rightclick on a frame block to give it the texture of the block you clicked it with
+- Right-Click with the hammer to get the block back out of the frame (you can change this feature in the config file, so that you only need an empty hand and Sneak-Rightclick)
+- For blocks with different textures on each side, you can select the texture you want using the texture wrench
+- Let the blocks glow by right-clicking them with glowstone dust or coal/charcoal
+- You can also change the appearance of a block by right-clicking it with the chisel and the paintbrush
+
+Have fun!
+ModID:       blockcarpentry
+Namespace:   blockcarpentry
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/blockcarpentry-1.16-0.5.1.jar
+IssueURL:    https://github.com/PianoManu/BlockCarpentry/issues
+UpdateURL:   null
+#######################################################################################
+Name:        LostCities
+Version:     1.16-4.0.12-beta
+Description: Generate cities all over the world
+ModID:       lostcities
+Namespace:   lostcities
+Properties:  {}
+License:     MIT License https://github.com/McJtyMods/LostCities/blob/1.16/LICENCE
+Modfile:     Mod File: /home/container/mods/lostcities-1.16-4.0.12-beta.jar
+IssueURL:    http://github.com/McJtyMods/LostCities/issues
+UpdateURL:   null
+#######################################################################################
+Name:        YUNG's Better Strongholds
+Version:     1.16.4-1.2.1
+Description: A complete redesign of Minecraft's strongholds
+ModID:       betterstrongholds
+Namespace:   betterstrongholds
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/BetterStrongholds-1.16.4-1.2.1.jar
+IssueURL:    https://github.com/yungnickyoung/YUNGs-Better-Strongholds/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Starter Kit
+Version:     4.1
+Description: Gives players who join the world for the first time configurable starter gear.
+ModID:       starterkit
+Namespace:   starterkit
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/starterkit_1.16.5-4.1.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Starter%20Kit
+UpdateURL:   null
+#######################################################################################
+Name:        Architectury
+Version:     1.32.68
+Description: A intermediary api aimed to ease developing multiplatform mods.
+ModID:       architectury
+Namespace:   architectury
+Properties:  {}
+License:     GNU LGPLv3
+Modfile:     Mod File: /home/container/mods/architectury-1.32.68.jar
+IssueURL:    https://github.com/shedaniel/architectury/issues
+UpdateURL:   null
+#######################################################################################
+Name:        FTB Library
+Version:     1605.3.4-build.90
+Description: FTB Library adds nothing.
+ModID:       ftblibrary
+Namespace:   ftblibrary
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/ftb-library-forge-1605.3.4-build.90.jar
+IssueURL:    https://github.com/FTBTeam/FTB-Library/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Antique Atlas
+Version:     6.2.4-forge-mc1.16.5
+Description: Antique Atlas is a book that acts like a map featuring infinite scrolling, zoom and custom labeled markers. The map is generated around the player by calculating the average biome in each 16x16 chunk.
+ModID:       antiqueatlas
+Namespace:   antiqueatlas
+Properties:  {}
+License:     GNU GENERAL PUBLIC LICENSE
+Modfile:     Mod File: /home/container/mods/antiqueatlas-6.2.4-forge-mc1.16.5.jar
+IssueURL:    https://github.com/AntiqueAtlasTeam/AntiqueAtlas/issues
+UpdateURL:   null
+#######################################################################################
+Name:        FTB Teams
+Version:     1605.2.3-build.40
+Description: FTB Teams adds ability to create your own teams that can be used for quests etc.
+ModID:       ftbteams
+Namespace:   ftbteams
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/ftb-teams-forge-1605.2.3-build.40.jar
+IssueURL:    https://github.com/FTBTeam/FTB-Teams/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Immersive Railroading
+Version:     1.16.5-forge-1.9.1
+Description: MISSING DESCRIPTION
+ModID:       immersiverailroading
+Namespace:   immersiverailroading
+Properties:  {}
+License:     TODO
+Modfile:     Mod File: /home/container/mods/ImmersiveRailroading-1.16.5-forge-1.9.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Universal Mod Core
+Version:     1.1.3
+Description: Universal Mod API (Minecraft version agnostic)
+ModID:       universalmodcore
+Namespace:   universalmodcore
+Properties:  {}
+License:     LGPL
+Modfile:     Mod File: /home/container/mods/UniversalModCore-1.16.5-forge-1.1.3.jar
+IssueURL:    https://github.com/TeamOpenIndustry/UniversalModCore/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Curious Elytra
+Version:     1.16.5-4.0.2.4
+Description: Adds curio support to the elytra so you can fly and wear chest armor at the same time.
+ModID:       curiouselytra
+Namespace:   curiouselytra
+Properties:  {}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/curiouselytra-forge-1.16.5-4.0.2.4.jar
+IssueURL:    https://github.com/TheIllusiveC4/CuriousElytra/issues
+UpdateURL:   null
+#######################################################################################
+Name:        AI-Improvements
+Version:     0.4.0
+Description: Small adjustements and improvements to AI logic focusing on optimizations for increased server performance
+ModID:       aiimprovements
+Namespace:   aiimprovements
+Properties:  {}
+License:     MIT License https://github.com/BuiltBrokenModding/AI-Improvements/blob/1.16/LICENSE
+Modfile:     Mod File: /home/container/mods/AI-Improvements-1.16.5-0.5.0.jar
+IssueURL:    https://github.com/BuiltBrokenModding/AI-Improvements/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Ageing Spawners
+Version:     1.1.0
+Description: Spawners that have a limit
+ModID:       ageingspawners
+Namespace:   ageingspawners
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/AgeingSpawners-1.16.5-1.1.0.jar
+IssueURL:    https://github.com/Mrbysco/AgeingSpawners
+UpdateURL:   null
+#######################################################################################
+Name:        Light Overlay
+Version:     5.8.1
+Description: To provide users with NEI-like light overlay.
+ModID:       lightoverlay
+Namespace:   lightoverlay
+Properties:  {}
+License:     Apache-2.0
+Modfile:     Mod File: /home/container/mods/light-overlay-5.8.1.jar
+IssueURL:    https://github.com/shedaniel/LightOverlay/issues/
+UpdateURL:   null
+#######################################################################################
+Name:        Fall Through Slime
+Version:     1.4
+Description: Slime blocks no longer support your weight when standing still, and you'll slowly fall through.
+ModID:       fallthroughslime
+Namespace:   fallthroughslime
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/fallthroughslime_1.16.5-1.4.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Fall%20Through%20Slime
+UpdateURL:   null
+#######################################################################################
+Name:        Small Ships Mod
+Version:     2.0.0-a0.4
+Description: This Mod adds vanilla friendly Ships into Minecraft.
+ModID:       smallships
+Namespace:   smallships
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/smallships-1.16.5-2.0.0-Alpha-0.4.jar
+IssueURL:    null
+UpdateURL:   https://raw.githubusercontent.com/talhanation/Ship-Mod/main/update.json
+#######################################################################################
+Name:        Void Totem
+Version:     1.16.5-1.4.0
+Description: A mod that adds a totem that prevents you from dying in the void.
+ModID:       voidtotem
+Namespace:   voidtotem
+Properties:  {}
+License:     GNU GPLv3
+Modfile:     Mod File: /home/container/mods/voidtotem-1.16.5-1.4.0.jar
+IssueURL:    https://github.com/Affehund/VoidTotem/issues
+UpdateURL:   https://raw.githubusercontent.com/Affehund/VoidTotem/main/update.json
+#######################################################################################
+Name:        Cursed
+Version:     7.1.3
+Description: Adds many new types of curse enchantments to the game.
+ModID:       cursed
+Namespace:   cursed
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/Cursed-1.16.5-7.1.3.jar
+IssueURL:    https://github.com/Darkhax-Minecraft/Cursed/issues
+UpdateURL:   https://updates.blamejared.com/get?n=cursed&gv=1.16.5
+#######################################################################################
+Name:        Hand Over Your Items
+Version:     2.0
+Description: Adds to ability to give other players items in a server without dropping them on the floor.
+ModID:       handoveryouritems
+Namespace:   handoveryouritems
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/handoveryouritems_1.16.5-2.0.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Hand%20Over%20Your%20Items
+UpdateURL:   null
+#######################################################################################
+Name:        Spiders 2.0
+Version:     2.0.0
+Description: Vanilla spiders are not yet creepy enough for you? You wish spiders would §oactually climb properly§r?!
+Spiders 2.0 enables spiders to walk along walls and ceilings and it also improves their AI such that they can find their way around almost any obstacle!
+ModID:       spiderstpo
+Namespace:   spiderstpo
+Properties:  {}
+License:     GNU Lesser General Public License v2.1
+Modfile:     Mod File: /home/container/mods/spiderstpo-1.16.4-2.0.0.jar
+IssueURL:    http://my.issue.tracker/
+UpdateURL:   null
+#######################################################################################
+Name:        Snad
+Version:     1.0.9
+Description: You're finally able to have your sugarcane grow faster. What could possibly be better than that?
+ModID:       snad
+Namespace:   snad
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/snad-1.0.9-forge.jar
+IssueURL:    https://github.com/lazyMods/SnadBackThePast/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Shrines
+Version:     1.16.5-2.3.0
+Description: Shrines Structures is a World generation modication for Minecraft Java Edition focused on Structures
+Also allows users to easily add own structures to world generation (Press k)
+
+See https://www.curseforge.com/minecraft/mc-mods/shrines-structures for more Info
+ModID:       shrines
+Namespace:   shrines
+Properties:  {}
+License:     MPL-2.0
+Modfile:     Mod File: /home/container/mods/Shrines-1.16.5-2.3.0.jar
+IssueURL:    https://github.com/Silverminer007/Shrines/issues
+UpdateURL:   https://raw.githubusercontent.com/Silverminer007/MinecraftModsUpdateChecker/master/shrines-structures.json
+#######################################################################################
+Name:        Item Filters
+Version:     1605.2.5-build.9
+Description: Adds Item Filters that can be used in other mods to filter multiple items in devices
+ModID:       itemfilters
+Namespace:   itemfilters
+Properties:  {}
+License:     GNU LGPLv3
+Modfile:     Mod File: /home/container/mods/item-filters-forge-1605.2.5-build.9.jar
+IssueURL:    https://github.com/LatvianModder/Item-Filters/issues
+UpdateURL:   null
+#######################################################################################
+Name:        FTB Quests
+Version:     1605.3.7-build.165
+Description: Lets you easily create and play with quests
+ModID:       ftbquests
+Namespace:   ftbquests
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/ftb-quests-forge-1605.3.7-build.165.jar
+IssueURL:    https://github.com/FTBTeam/FTB-Quests/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Quest Plaques
+Version:     1.0.2
+Description: An addon for Advancement Plaques that adds plaques for quests.
+ModID:       questplaques
+Namespace:   questplaques
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/QuestPlaques-1.16.5-1.0.2.jar
+IssueURL:    null
+UpdateURL:   https://mc-update-check.anthonyhilyard.com/577121
+#######################################################################################
+Name:        Platforms
+Version:     1.7.17
+Description: -
+ModID:       platforms
+Namespace:   platforms
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/platforms-forge-1.16.2-1.7.17.jar
+IssueURL:    https://github.com/ShetiPhian/Localizations-and-Issues/issues
+UpdateURL:   null
+#######################################################################################
+Name:        The Conjurer
+Version:     1.0.13
+Description: The Conjurer is a magician inspired Illager miniboss. He owns a theater deep in the roofed forest biome. He has plenty of tricks up his sleve, so don’t take him lightly!
+ModID:       conjurer_illager
+Namespace:   conjurer_illager
+Properties:  {}
+License:     https://www.gnu.org/licenses/gpl-3.0.en.html
+Modfile:     Mod File: /home/container/mods/the-conjurer-1.16.4-1.0.13.jar
+IssueURL:    https://gitlab.com/groups/modding-legacy/-/issues
+UpdateURL:   http://changelogs.moddinglegacy.com/conjurer-illager.json
+#######################################################################################
+Name:        Rechiseled Compat
+Version:     1.0.5
+Description: Add other mods support to Rechiseled
+ModID:       rechiseled_compat
+Namespace:   rechiseled_compat
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/Rechiseled Compat-1.0.5.jar
+IssueURL:    https://github.com/Mrthomas20121/rechiseled_compat/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Callable Horses
+Version:     1.2.1.4
+Description: Callable Horses allows you to call your horse by a simple key press
+ModID:       callablehorses
+Namespace:   callablehorses
+Properties:  {}
+License:     GNU LGPLv3
+Modfile:     Mod File: /home/container/mods/callablehorses-1.16.3-1.2.1.4.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Abnormals Core
+Version:     3.3.1
+Description: The library mod used by all Abnormals mods. Adds support for various types of blocks, helps with registering, and adds tons of misc. utils.
+    Also comes with Endimator, an animation library that supports data-driven and coded animations.
+ModID:       abnormals_core
+Namespace:   abnormals_core
+Properties:  {}
+License:     https://github.com/team-abnormals/abnormals-core/blob/main/LICENSE.txt
+Modfile:     Mod File: /home/container/mods/abnormals_core-1.16.5-3.3.1.jar
+IssueURL:    https://github.com/team-abnormals/abnormals-core/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Upgrade Aquatic
+Version:     3.1.2
+Description: Expands upon Update Aquatic and aquatic life as a whole with new enemies, sea creatures, and building blocks.
+ModID:       upgrade_aquatic
+Namespace:   upgrade_aquatic
+Properties:  {}
+License:     https://github.com/team-abnormals/upgrade-aquatic/blob/main/LICENSE.txt
+Modfile:     Mod File: /home/container/mods/upgrade_aquatic-1.16.5-3.1.2.jar
+IssueURL:    https://github.com/team-abnormals/upgrade-aquatic/issues
+UpdateURL:   null
+#######################################################################################
+Name:        The Endergetic Expansion
+Version:     3.0.2
+Description: Ever since the end was first introduced to the game it's always been a dull place; and it has great potential to be something greater. This mod expands the end greatly by adding tons of new biomes, mobs, bosses, items, blocks, etc to the end! Venture to new places like the Poise Forest or explore old places like the chorus biome which have been revamped!
+ModID:       endergetic
+Namespace:   endergetic
+Properties:  {}
+License:     https://github.com/team-abnormals/endergetic/blob/main/LICENSE.txt
+Modfile:     Mod File: /home/container/mods/endergetic-1.16.5-3.0.2.jar
+IssueURL:    https://github.com/team-abnormals/endergetic/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Campfire Overhaul
+Version:     1.0.5
+Description: A mod that overhauls campfire mechanics to enhance immersion and usefulness.
+ModID:       campfire_overhaul
+Namespace:   campfire_overhaul
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/campfire_overhaul-1.16.5-1.0.5.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Savage & Ravage
+Version:     3.2.0
+Description: A mod that improves and expands on illagers through new structures, enemies and challenges.
+ModID:       savageandravage
+Namespace:   savageandravage
+Properties:  {}
+License:     https://github.com/team-abnormals/savage-and-ravage/blob/main/LICENSE.txt
+Modfile:     Mod File: /home/container/mods/savageandravage-1.16.5-3.2.0.jar
+IssueURL:    https://github.com/team-abnormals/savage-and-ravage/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Nethers Delight
+Version:     2.1
+Description: An addon created by Umpaz and SoyTutta for the Farmer's Delight mod by vectorwing. Attempts to add on to the foods found and cooked from the nether!
+ModID:       nethers_delight
+Namespace:   nethers_delight
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/nethers_delight-2.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Compat O' Plenty
+Version:     1.16.5-1.0.7
+Description: A mod designed to fill the gap in content between Biomes O' Plenty and Quark, Farmer's Delight, and Buzzier Bees.
+ModID:       compatoplenty
+Namespace:   compatoplenty
+Properties:  {}
+License:     Apache-2.0
+Modfile:     Mod File: /home/container/mods/Compat-O-Plenty-1.16.5-1.0.7.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Just Mob Heads
+Version:     6.2
+Description: Mobs have a configurable chance to drop their heads on death. Uses lag-free vanilla resources. Collect them all!
+ModID:       justmobheads
+Namespace:   justmobheads
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/justmobheads_1.16.5-6.2.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Just%20Mob%20Heads
+UpdateURL:   null
+#######################################################################################
+Name:        Extra Boats
+Version:     2.1.1
+Description: Adds some new kinds of boats to make ocean exploration more interesting.
+ModID:       extraboats
+Namespace:   extraboats
+Properties:  {}
+License:     https://github.com/team-abnormals/extra-boats/blob/main/LICENSE.txt
+Modfile:     Mod File: /home/container/mods/extraboats-1.16.5-2.1.1.jar
+IssueURL:    https://github.com/team-abnormals/extra-boats/issues
+UpdateURL:   null
+#######################################################################################
+Name:        YUNG's Better Portals
+Version:     1.16.4-0.3.9
+Description: An overhaul to vanilla portals, replacing them with natural features in the world!
+ModID:       betterportals
+Namespace:   betterportals
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/BetterPortals-1.16.4-0.3.9.jar
+IssueURL:    https://github.com/yungnickyoung/YUNGs-Better-Portals/issues
+UpdateURL:   null
+#######################################################################################
+Name:        FastSuite
+Version:     1.1.1
+Description: Fast things
+ModID:       fastsuite
+Namespace:   fastsuite
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/FastSuite-1.16.4-1.1.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Comforts
+Version:     1.16.5-4.0.1.5
+Description: Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!
+ModID:       comforts
+Namespace:   comforts
+Properties:  {}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/comforts-forge-1.16.5-4.0.1.5.jar
+IssueURL:    https://github.com/TheIllusiveC4/Comforts/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Tumbleweed
+Version:     1.16-0.4.9
+Description: Tumbleweeds spawn around dead bushes in deserts. They drop random goodies upon destroying.
+ModID:       tumbleweed
+Namespace:   tumbleweed
+Properties:  {}
+License:     GNU GPLv3
+Modfile:     Mod File: /home/container/mods/tumbleweed-1.16-0.4.9.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Artifacts
+Version:     1.16.5-2.10.5
+Description: Adds various new powerful uncraftable items to make exploration a bit more interesting
+ModID:       artifacts
+Namespace:   artifacts
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Artifacts-1.16.5-2.10.5.jar
+IssueURL:    https://github.com/ochotonida/artifacts/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Framed Compacting Drawers
+Version:     1.16-2.2.1
+Description: Adds a framed version of the Compacting Drawers from the Storage Drawers mod.
+ModID:       framedcompactdrawers
+Namespace:   framedcompactdrawers
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/framedcompactdrawers-1.16-2.2.1.jar
+IssueURL:    https://github.com/eutropius225/FramedCompactDrawers/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Configured
+Version:     1.5.4
+Description: Creates a simple GUI config for every mod!
+ModID:       configured
+Namespace:   configured
+Properties:  {configuredBackground=minecraft:textures/block/stone.png, catalogueImageIcon=configured_icon.png}
+License:     GPL3
+Modfile:     Mod File: /home/container/mods/configured-1.5.4-1.16.5.jar
+IssueURL:    https://github.com/MrCrayfish/Configured/issues
+UpdateURL:   https://mrcrayfish.com/modupdatejson?id=configured
+#######################################################################################
+Name:        The Outer End
+Version:     0.2.9
+Description: The Outer End is an end mod
+ModID:       outer_end
+Namespace:   outer_end
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/OuterEnd-0.2.14.jar
+IssueURL:    https://github.com/BlueDuckYT/The-Outer-End/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Better Animals Plus
+Version:     1.16.5-11.0.10
+Description: ~Breathing new life into your worlds~
+Adds 35+ new animals to your world, with items, food, blocks, and armor to supplement them.
+ModID:       betteranimalsplus
+Namespace:   betteranimalsplus
+Properties:  {}
+License:     CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Modfile:     Mod File: /home/container/mods/betteranimalsplus-1.16.5-11.0.10-forge.jar
+IssueURL:    https://github.com/itsmeow/betteranimalsplus/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Beautified Chat Server
+Version:     1.5
+Description: A highly configurable mod to change the style and colour of incoming chat messages server-wide.
+ModID:       beautifiedchatserver
+Namespace:   beautifiedchatserver
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/beautifiedchatserver_1.16.5-1.5.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Beautified%20Chat%20Server
+UpdateURL:   null
+#######################################################################################
+Name:        LazyDFU
+Version:     0.1.3
+Description: Makes DataFixerUpper more lazy
+ModID:       lazydfu
+Namespace:   lazydfu
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/lazydfu-0.1.3.jar
+IssueURL:    https://github.com/CorgiTaco/lazydfu/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Bedspreads
+Version:     1.16.5-5.1.0.3
+Description: Allows players to add banner patterns to their beds!
+ModID:       bedspreads
+Namespace:   bedspreads
+Properties:  {}
+License:     LGPL-3.0-or-later
+Modfile:     Mod File: /home/container/mods/bedspreads-forge-1.16.5-5.1.0.3.jar
+IssueURL:    https://github.com/TheIllusiveC4/Bedspreads/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Wall-Jump!
+Version:     1.16.4-1.3.7
+Description: Jump from wall to wall!
+Jump towards a wall and hold the wall jump key (LSHIFT).
+Then while wall clinging, keep holding W and let go of LSHIFT to wall jump.
+ModID:       walljump
+Namespace:   walljump
+Properties:  {}
+License:     GNU AGPLv3
+Modfile:     Mod File: /home/container/mods/walljump-forge-1.16.4-1.3.7.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Toast Control
+Version:     4.4.0
+Description: Blocking annoying popups since 1.12
+ModID:       toastcontrol
+Namespace:   toastcontrol
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/ToastControl-1.16.5-4.4.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        3dSkinLayers
+Version:     1.1.0
+Description: Renders the player skin layer in 3d
+ModID:       skinlayers3d
+Namespace:   skinlayers3d
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/3dSkinLayers-forge-1.1.0(2).jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Traveler's Titles
+Version:     1.16.4-1.5
+Description: Epic, RPG-like titles when entering biomes & dimensions
+ModID:       travelerstitles
+Namespace:   travelerstitles
+Properties:  {}
+License:     GPLv3
+Modfile:     Mod File: /home/container/mods/TravelersTitles-1.16.4-1.5.jar
+IssueURL:    https://github.com/yungnickyoung/Travelers_Titles/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Scuba Gear
+Version:     1.0.3
+Description: A mod that adds a simple set of underwater Scuba Gear.
+ModID:       scuba_gear
+Namespace:   scuba_gear
+Properties:  {}
+License:     https://moddinglegacy.com/ML-Lesser-License/
+Modfile:     Mod File: /home/container/mods/scuba-gear-1.16.5-1.0.3.jar
+IssueURL:    https://gitlab.com/modding-legacy/scuba-gear/issues
+UpdateURL:   http://changelogs.moddinglegacy.com/scuba-gear.json
+#######################################################################################
+Name:        Just Enough Immersive Multiblocks
+Version:     0.0.1
+Description: JEI support for Immersive Engineering Multiblocks
+ModID:       jeimultiblocks
+Namespace:   jeimultiblocks
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/jeimultiblocks-1.16.5-0.0.1.jar
+IssueURL:    https://github.com/sguest/jei-multiblocks/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Chococraft 4
+Version:     0.3.9
+Description: Chocobos in Minecraft
+ModID:       chococraft
+Namespace:   chococraft
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/chococraft-1.16.5-0.3.9.jar
+IssueURL:    https://github.com/Mrbysco/ChocoCraft4/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Immersive Posts
+Version:     4.3.0-1
+Description: Simply adds a way to have extendable posts. With a few post types to choose from.
+ModID:       immersiveposts
+Namespace:   immersiveposts
+Properties:  {}
+License:     TwistedGate's License of Common Sense (A modified copy of "Blu's License of Common Sense")
+Modfile:     Mod File: /home/container/mods/ImmersivePosts-1.16.5-4.3.0-1.jar
+IssueURL:    https://github.com/TwistedGate/ImmersivePosts/issues
+UpdateURL:   https://raw.githubusercontent.com/TwistedGate/ImmersivePosts/master/change.json
+#######################################################################################
+Name:        Immersive Engineering
+Version:     1.16.5-5.1.0-148
+Description: A tech based mod focused on realism.
+ModID:       immersiveengineering
+Namespace:   immersiveengineering
+Properties:  {}
+License:     Blu's License of Common Sense
+Modfile:     Mod File: /home/container/mods/ImmersiveEngineering-1.16.5-5.1.0-148.jar
+IssueURL:    https://github.com/BluSunrize/ImmersiveEngineering/issues
+UpdateURL:   https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
+#######################################################################################
+Name:        Selene
+Version:     1.16.5-1.0
+Description: A small library that allows to make custom map markers, first and third person animations and contains the soft fluid system as well as other utilities
+ModID:       selene
+Namespace:   selene
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/selene-1.16.5-1.9.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Crafting Tweaks
+Version:     12.2.1
+Description: Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window.
+ModID:       craftingtweaks
+Namespace:   craftingtweaks
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/CraftingTweaks_1.16.5-12.2.1.jar
+IssueURL:    https://github.com/blay09/CraftingTweaks/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Tinkers' Construct
+Version:     3.3.4.335
+Description: A little of this, a little of that, a lot of tinkering, and a lot of tools
+ModID:       tconstruct
+Namespace:   tconstruct
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/TConstruct-1.16.5-3.3.4.335.jar
+IssueURL:    https://github.com/SlimeKnights/TinkersConstruct/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Weaker Spiderwebs
+Version:     2.7
+Description: Breaks spider webs/cobwebs with a configurable delay when walking through.
+ModID:       weakerspiderwebs
+Namespace:   weakerspiderwebs
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/weakerspiderwebs_1.16.5-2.7.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Weaker%20Spiderwebs
+UpdateURL:   null
+#######################################################################################
+Name:        EnchantmentDescriptions
+Version:     7.1.23
+Description: Adds descriptions of enchantments to their tooltip.
+ModID:       enchdesc
+Namespace:   enchdesc
+Properties:  {}
+License:     LGPL v2.1
+Modfile:     Mod File: /home/container/mods/EnchantmentDescriptions-1.16.5-7.1.23.jar
+IssueURL:    https://github.com/darkhax-minecraft/enchantment-descriptions/issues
+UpdateURL:   https://updates.blamejared.com/get?n=enchantmentdescriptions&gv=1.16.4
+#######################################################################################
+Name:        SwingThroughGrass
+Version:     1.16.4-1.5.3
+Description: Don't let the grass be between you and your prey!
+ModID:       swingthroughgrass
+Namespace:   swingthroughgrass
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/swingthroughgrass-1.16.4-1.5.3.jar
+IssueURL:    https://github.com/Exidex/SwingThroughGrass/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Pollen
+Version:     1.5.0
+Description: Pollen is a library mod which includes various utilities and platform bridges for Fabric and Forge using Architectury.
+ModID:       pollen
+Namespace:   pollen
+Properties:  {catalogueImageIcon=icon.png}
+License:     LGPLv3
+Modfile:     Mod File: /home/container/mods/pollen-forge-1.5.0+1.16.5.jar
+IssueURL:    https://github.com/MoonflowerTeam/pollen/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Eccentric Tome
+Version:     1.16.5-1.10.1
+Description: This mod adds a single item: the Eccentric Tome.
+
+The Tome solves a single problem: managing all of your guide books.
+
+The Tome allows many (infinite?) books to be combined into a single item, and enables them to be retrieved when needed.
+ModID:       eccentrictome
+Namespace:   eccentrictome
+Properties:  {}
+License:     LGPL-3.0
+Modfile:     Mod File: /home/container/mods/eccentrictome-1.16.5-1.10.1.jar
+IssueURL:    https://github.com/EccentricVamp/EccentricTome/issues
+UpdateURL:   https://api.modrinth.com/updates/eccentric-tome/forge_updates.json
+#######################################################################################
+Name:        Watercan
+Version:     2.0.5
+Description: Watercan
+ModID:       watercan
+Namespace:   watercan
+Properties:  {}
+License:     Apache 2.0
+Modfile:     Mod File: /home/container/mods/watercan-2.0.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Extract Poison
+Version:     1.6
+Description: Allows the extraction of poison from cave spiders, pufferfish and bees with an empty bottle.
+ModID:       extractpoison
+Namespace:   extractpoison
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/extractpoison_1.16.5-1.6.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Extract%20Poison
+UpdateURL:   null
+#######################################################################################
+Name:        Jade
+Version:     2.8.3
+Description: HWYLA addons
+ModID:       jade
+Namespace:   jade
+Properties:  {}
+License:     CC BY-NC-SA 4.0
+Modfile:     Mod File: /home/container/mods/Jade-1.16.4-2.8.3.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Waila (Jade)
+Version:     2.8.3
+Description: You are using Jade, a fork of Hwyla.
+ModID:       waila
+Namespace:   waila
+Properties:  {}
+License:     CC BY-NC-SA 4.0
+Modfile:     Mod File: /home/container/mods/Jade-1.16.4-2.8.3.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Armor Poser
+Version:     1.0.2
+Description: A GUI to allow configuration of Armor Stand properties
+ModID:       armorposer
+Namespace:   armorposer
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/ArmorPoser-1.16.5-1.0.2.jar
+IssueURL:    https://github.com/Mrbysco/armor-poser/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Additional Ender Items
+Version:     1.2.1
+Description: Contains items, blocks, enchantments and mobs that use End related materials, like Ender Pearls, Eyes of Ender, End Stone, etc.
+ModID:       additionalenderitems
+Namespace:   additionalenderitems
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/additionalenderitems-1.2.1.jar
+IssueURL:    https://github.com/Hidoni/AdditionalEnderItems/issues
+UpdateURL:   null
+#######################################################################################
+Name:        CreativeCore
+Version:     2.0.0
+Description: A simple but powerful coremod.
+ModID:       creativecore
+Namespace:   creativecore
+Properties:  {}
+License:     GNU General Public License v3.0
+Modfile:     Mod File: /home/container/mods/CreativeCore_v2.2.1_mc1.16.5.jar
+IssueURL:    https://github.com/CreativeMD/CreativeCore/issues
+UpdateURL:   null
+#######################################################################################
+Name:        YDM's Weapon Master
+Version:     3.0.5
+Description: With this Mod your Hotbar items will be visible on your Character, with a unique location for a Shield and Banner.
+
+You can turn on or off the visibility for all of them one-by-one.
+Good compatibility with other mod Items.
+(With these types of Items: TieredItem (Sword), TridentItem, ShieldItem, BannerItem, DiggerItem (Tools))
+
+This mod works on multiplayer/server!
+Others will see you the same way you see yourself!
+If you only need a Client-Only mod then there is one available at curseforge on the same page.
+
+If you find any errors please let me know.
+You can find me on curseforge: YourDailyModderx
+Thanks for downloading my mod!
+ModID:       weaponmaster
+Namespace:   weaponmaster
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/weaponmaster-multi-forge-1.16.5-3.0.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Towers Of The Wild
+Version:     1.16.3-2.1.0
+Description: Cool towers to enhance exploration!
+ModID:       towers_of_the_wild
+Namespace:   towers_of_the_wild
+Properties:  {}
+License:     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+Modfile:     Mod File: /home/container/mods/towers_of_the_wild-1.16.3-2.1.0.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Just Player Heads
+Version:     2.0
+Description: A minimalistic mod that adds a configurable chance for players to drop their respective heads on death and via a command. All heads are generated with texture-data.
+ModID:       justplayerheads
+Namespace:   justplayerheads
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/justplayerheads_1.16.5-2.0.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Just%20Player%20Heads
+UpdateURL:   null
+#######################################################################################
+Name:        Iceberg
+Version:     1.0.45
+Description: A library containing events, helpers, and utilities to make modding easier.
+ModID:       iceberg
+Namespace:   iceberg
+Properties:  {}
+License:     CC BY-NC-ND 4.0
+Modfile:     Mod File: /home/container/mods/Iceberg-1.16.5-1.0.45.jar
+IssueURL:    null
+UpdateURL:   https://mc-update-check.anthonyhilyard.com/520110
+#######################################################################################
+Name:        Quark
+Version:     r2.4-322
+Description: Small things.
+ModID:       quark
+Namespace:   quark
+Properties:  {}
+License:     https://github.com/Vazkii/Quark/blob/master/LICENSE.md
+Modfile:     Mod File: /home/container/mods/Quark-r2.4-322.jar
+IssueURL:    https://github.com/Vazkii/Quark
+UpdateURL:   null
+#######################################################################################
+Name:        Pollutant Pump
+Version:     1.16.5-1.4.0
+Description: An addon for Pollution Of The Realms which adds a pump to help clear up pollution in the air
+ModID:       pollutantpump
+Namespace:   pollutantpump
+Properties:  {}
+License:     GNU General Public License v3.0
+Modfile:     Mod File: /home/container/mods/pollutantpump-1.16.5-1.4.0.jar
+IssueURL:    https://github.com/thebrightspark/PollutantPump/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Let Them Grow
+Version:     1.16.3-1.0.0
+Description: Slows down growth of crops and livestock; see config file
+ModID:       letthemgrow
+Namespace:   letthemgrow
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/letthemgrow-1.16.3-1.0.0.jar
+IssueURL:    https://github.com/Lothrazar/LetThemGrow/issues
+UpdateURL:   https://raw.githubusercontent.com/Lothrazar/LetThemGrow/trunk/1.16/update.json
+#######################################################################################
+Name:        Time & Wind CT Forge
+Version:     1.3
+Description: Control duration of day/night with this mod!
+ModID:       timeandwindct
+Namespace:   timeandwindct
+Properties:  {}
+License:     GPL-3.0
+Modfile:     Mod File: /home/container/mods/time-and-wind-ct-1.3+1.16.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Hardcore Torches
+Version:     1.16.5-1.2
+Description: Makes torches burn out and adds Lanterns that run on fuel
+ModID:       hardcore_torches
+Namespace:   hardcore_torches
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/hardcore_torches_forge-1.16.5-1.2.jar
+IssueURL:    https://github.com/WolfieWaffle/Hardcore-Torches-Forge/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Fast Workbench
+Version:     4.6.2
+Description: Speeding up crafting operations - massively.
+ModID:       fastbench
+Namespace:   fastbench
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/FastWorkbench-1.16.5-4.6.2.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        APTweaks
+Version:     2.5.0
+Description: Adaptive Performance Tweaks is a Minecraft Forge Mod to automatically adjust specific settings on the server side to allow a better tps/fps.
+
+Note: Most of these tweaks are based on my experience with maintaining minecraft servers.
+ModID:       adaptive_performance_tweaks
+Namespace:   adaptive_performance_tweaks
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/adaptive_performance_tweaks_1.16.5-2.5.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Abnormals Delight
+Version:     1.2.1
+Description: Adds compatibility between mods by Team Abnormals and Farmer's Delight by vectorwing.
+    Includes pantries, cake slices, and some basic cutting & cooking recipes.
+ModID:       abnormals_delight
+Namespace:   abnormals_delight
+Properties:  {}
+License:     https://github.com/team-abnormals/abnormals-delight/blob/main/LICENSE.txt
+Modfile:     Mod File: /home/container/mods/abnormals_delight-1.16.5-1.2.1.jar
+IssueURL:    https://github.com/team-abnormals/abnormals-delight/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Storage Drawers
+Version:     8.5.2
+Description: Multi-drawer storage blocks for quick storage and retrieval.
+ModID:       storagedrawers
+Namespace:   storagedrawers
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/StorageDrawers-1.16.3-8.5.2.jar
+IssueURL:    https://github.com/jaquadro/StorageDrawers/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Water Source
+Version:     1.1.40-release-1.16.5
+Description: This is a mod added a Thirst and Drinking System and Coconut to Minecraft.
+ModID:       watersource
+Namespace:   watersource
+Properties:  {}
+License:     BSD 3-Clause
+Modfile:     Mod File: /home/container/mods/WaterSource-1.1.40-release-1.16.5.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Performant
+Version:     3.73m
+Description: Vanilla mod with the aim to improve vanilla performance in certain areas.
+ModID:       performant
+Namespace:   performant
+Properties:  {}
+License:     ARR
+Modfile:     Mod File: /home/container/mods/performant-1.16.2-5-4.1m.jar
+IssueURL:    https://github.com/ldtteam/Performant/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Diagonal Fences
+Version:     1.1.1
+Description: Fences connecting diagonally? Wait. That's illegal.
+ModID:       diagonalfences
+Namespace:   diagonalfences
+Properties:  {}
+License:     Mozilla Public License 2.0
+Modfile:     Mod File: /home/container/mods/DiagonalFences-v1.1.1-1.16.5.jar
+IssueURL:    https://github.com/Fuzss/diagonalfences/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Random Village Names
+Version:     2.0
+Description: Gives all villages a random name from a preset list. Uses the Areas mod to display the name in the GUI.
+ModID:       randomvillagenames
+Namespace:   randomvillagenames
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/randomvillagenames_1.16.5-2.0.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Random%20Village%20Names
+UpdateURL:   null
+#######################################################################################
+Name:        Zombie Awareness Fix
+Version:     1.1
+Description: Fixed item frame bug in Zombie Awareness
+ModID:       zombieawarenessfix
+Namespace:   zombieawarenessfix
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/zombieawarenessfix-1.1.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Statues Mod
+Version:     0.1.7.7
+Description: Just a little functional decoration.
+ModID:       statues
+Namespace:   statues
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/Statues-1.16.5-0.1.7.7.jar
+IssueURL:    https://github.com/ShyNieke/StatuesMod/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Inventory HUD+(Forge edition)
+Version:     3.4.1
+Description: This mod will show you
+
+your inventory while playing.
+
+Enjoy!
+ModID:       inventoryhud
+Namespace:   inventoryhud
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar
+IssueURL:    https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/issues
+UpdateURL:   https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+#######################################################################################
+Name:        Illagers Wear Armor
+Version:     1.0.5
+Description: Allows illagers to wear armor.
+ModID:       illagersweararmor
+Namespace:   illagersweararmor
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/illagersweararmor-1.0.5.jar
+IssueURL:    https://github.com/seymourimadeit/IllagersWearArmor/issues
+UpdateURL:   null
+#######################################################################################
+Name:        CoroUtil
+Version:     1.16.5-1.2.37
+Description: Library for Corosus mods
+ModID:       coroutil
+Namespace:   coroutil
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/CoroUtil-1.16.5-1.2.37.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Mob Catcher
+Version:     1.16.5-3.3a
+Description: Adds devices for moving around mobs
+ModID:       mobcatcher
+Namespace:   mobcatcher
+Properties:  {}
+License:     Unlicense
+Modfile:     Mod File: /home/container/mods/mobcatcher-1.16.5-3.3a.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        InfinityLib
+Version:     1.16.5-2.0.7
+Description: Library Mod.
+ModID:       infinitylib
+Namespace:   infinitylib
+Properties:  {}
+License:     license.txt
+Modfile:     Mod File: /home/container/mods/Infinitylib-2.0.7.jar
+IssueURL:    https://github.com/InfinityRaider/InfinityLib/issues/
+UpdateURL:   null
+#######################################################################################
+Name:        Ferrite Core
+Version:     2.1.1
+Description: Reduces memory usage.
+ModID:       ferritecore
+Namespace:   ferritecore
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/ferritecore-2.1.1-forge.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        Engineer's Decor
+Version:     1.1.19
+Description: Adds cosmetic blocks for the engineer's workshop, factory and home.
+ModID:       engineersdecor
+Namespace:   engineersdecor
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/engineersdecor-1.16.5-forge-1.1.19.jar
+IssueURL:    https://github.com/stfwi/engineers-decor/issues/
+UpdateURL:   https://raw.githubusercontent.com/stfwi/engineers-decor/versions/1.16.json
+#######################################################################################
+Name:        Spice of Life: Carrot Edition
+Version:     1.16.5-1.10.1
+Description: A mod designed to encourage dietary variety!
+
+It does so by rewarding the player for eating a variety of foods instead of punishing them for failing to diversify.
+Instead of using the stick, we use the carrot!
+ModID:       solcarrot
+Namespace:   solcarrot
+Properties:  {}
+License:     LGPL-2.1
+Modfile:     Mod File: /home/container/mods/SoL-Carrot-1.16.5-1.10.1.jar
+IssueURL:    https://github.com/Cazsius/Spice-of-Life-Carrot-Edition/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Odd Water Mobs
+Version:     1.5.0
+Description: Adds a few water mobs to your world!
+ModID:       oddwatermobs
+Namespace:   oddwatermobs
+Properties:  {}
+License:     All Rights Reserved
+Modfile:     Mod File: /home/container/mods/OddWaterMobs[1.16.5]_1.5.0.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        More Dragon Eggs
+Version:     2.5
+Description: This mod makes it so a dragon egg spawns every time the dragon dies.
+ModID:       moredragoneggs
+Namespace:   moredragoneggs
+Properties:  {}
+License:     MIT LICENSE
+Modfile:     Mod File: /home/container/mods/moredragoneggs-2.5.jar
+IssueURL:    http://my.issue.tracker/
+UpdateURL:   null
+#######################################################################################
+Name:        Enhanced Celestials
+Version:     2.0.9-1.16.5
+Description: A minecraft mod adding new Lunar Events!
+ModID:       enhancedcelestials
+Namespace:   enhancedcelestials
+Properties:  {}
+License:     LGPLv3
+Modfile:     Mod File: /home/container/mods/enhancedcelestials-2.0.9-1.16.5.jar
+IssueURL:    https://github.com/CorgiTaco/Enhanced-Celestials/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Armor Sound Tweak
+Version:     3.1.2
+Description: Plays the respective equip sound when (un)equipping armor in a menu
+ModID:       armorsoundtweak
+Namespace:   armorsoundtweak
+Properties:  {}
+License:     Apache-2.0
+Modfile:     Mod File: /home/container/mods/ArmorSoundTweak-3.1.2-forge.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        CHA&S - Craftable Horse Armour and Saddle
+Version:     1.7
+Description: Read the name of the mod
+ModID:       craftablehorsearmour
+Namespace:   craftablehorsearmour
+Properties:  {}
+License:     MIT License
+Modfile:     Mod File: /home/container/mods/Craftable Horse Armour  Saddle-1.16.5-1.7--Forge.jar
+IssueURL:    https://github.com/EwyBoy/CHA-S/issues
+UpdateURL:   null
+#######################################################################################
+Name:        ExpandAbility
+Version:     2.0.1
+Description: Library mod that provides increased control over vanilla abilities
+ModID:       expandability
+Namespace:   expandability
+Properties:  {}
+License:     MIT
+Modfile:     Mod File: /home/container/mods/expandability-2.0.1-forge.jar
+IssueURL:    https://github.com/florensie/expandability/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Sound Filters
+Version:     0.14_for_1.16.2
+Description: Adds reveb to caves, as well as muted sounds underwater/in lava, and behind walls.
+ModID:       soundfilters
+Namespace:   soundfilters
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/SoundFilters-0.14_for_1.16.2.jar
+IssueURL:    https://minecraft.curseforge.com/projects/sound-filters/issues
+UpdateURL:   null
+#######################################################################################
+Name:        Chisels & bits
+Version:     1.0.63
+Description: a mod about Sculpting, Decorating and Aesthetics.
+
+Ported to 1.16.x by the LDTTeam.
+ModID:       chiselsandbits
+Namespace:   chiselsandbits
+Properties:  {}
+License:     GLGPLv3
+Modfile:     Mod File: /home/container/mods/chiselsandbits-1.0.63.jar
+IssueURL:    null
+UpdateURL:   null
+#######################################################################################
+Name:        GUI Followers
+Version:     1.9
+Description: [Client] Shows a list in the GUI/HUD with all tamed non-sitting followers around the player.
+ModID:       guifollowers
+Namespace:   guifollowers
+Properties:  {}
+License:     All rights reserved
+Modfile:     Mod File: /home/container/mods/guifollowers_1.16.5-1.9.jar
+IssueURL:    https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20GUI%20Followers
+UpdateURL:   null

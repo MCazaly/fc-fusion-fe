@@ -1,0 +1,121 @@
+{
+  "aliases": {
+    "feinfo": [],
+    "fereload": [],
+    "fesettings": [
+      "feconfig"
+    ],
+    "fetesting": [],
+    "feSELwand": [
+      "SELwand"
+    ],
+    "feuuid": [
+      "uuid"
+    ],
+    "feworldinfo": [],
+    "feSELfepos1": [
+      "SELfepos1"
+    ],
+    "feSELfepos2": [
+      "SELfepos2"
+    ],
+    "feSELdesel": [
+      "/deselect",
+      "/sel",
+      "SELdesel"
+    ],
+    "feSELexpand": [
+      "SELexpand"
+    ],
+    "feSELexpandY": [
+      "SELexpandY"
+    ],
+    "fewallet": [
+      "wallet"
+    ],
+    "fepay": [
+      "pay"
+    ],
+    "fesell": [
+      "sell"
+    ],
+    "fepaidcommand": [
+      "pc",
+      "pcmd",
+      "paidcommand"
+    ],
+    "fesellcommand": [
+      "sc",
+      "scmd",
+      "sellcommand"
+    ],
+    "fetrade": [
+      "trade"
+    ],
+    "fesellprice": [
+      "sellprice"
+    ],
+    "ferequestpayment": [
+      "requestpayment"
+    ],
+    "fescript": [
+      "script"
+    ],
+    "feitemperm": [
+      "itemperm"
+    ],
+    "feprotectdebug": [
+      "protectdebug"
+    ],
+    "femail": [
+      "mail"
+    ],
+    "femute": [
+      "mute"
+    ],
+    "fenickname": [
+      "nick",
+      "nickname"
+    ],
+    "fepm": [
+      "pm"
+    ],
+    "fereply": [
+      "r",
+      "reply"
+    ],
+    "fetimedmessage": [
+      "tm",
+      "timedmessage"
+    ],
+    "feunmute": [
+      "unmute"
+    ],
+    "fegmsg": [
+      "gmsg"
+    ],
+    "fearea": [
+      "zone",
+      "area"
+    ],
+    "feperm": [
+      "fep",
+      "p",
+      "perm"
+    ],
+    "fepromote": [
+      "promote"
+    ],
+    "fepermtaggeditem": [
+      "permtaggeditem"
+    ],
+    "feyes": [
+      "accept",
+      "yes"
+    ],
+    "feno": [
+      "decline",
+      "no"
+    ]
+  }
+}

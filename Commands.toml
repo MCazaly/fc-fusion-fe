@@ -1,0 +1,47 @@
+
+["Commands Config"]
+	#Don't change this value!
+	#Range: > 0
+	version = 5
+
+["Command Rules Settings"]
+	#Name for rules file
+	filename = "rules.txt"
+
+["Command VirtualChest Settings"]
+	#1 row = 9 slots. 3 = 1 chest, 6 = double chest (max size!).
+	#Range: 1 ~ 6
+	VirtualChestRows = 6
+	#Don't use special stuff....
+	VirtualChestName = "Vault 13"
+
+["Command Findblock Settings"]
+	#Default max distance used.
+	#Range: > 0
+	defaultRange = 320
+	#Default speed used.
+	#Range: > 0
+	defaultSpeed = 256
+
+#Configure ForgeEssentials Help Command.
+["CommandHelp Settings"]
+	#Add custom messages here that will appear when /help is run
+	custom_help = []
+	#Amount to commands to show per help page
+	#Range: 1 ~ 50
+	commandPerPage = 8
+	#Color for the command in /help. The possible values are; 0: black, 1: dark_blue, 2: dark_green, 3: dark_aqua, 4: dark_red, 5: dark_purple, 6: gold, 7: gray, 8: dark_gray, 9: blue, 10: green, 11: aqua, 12: red, 13: light_purple, 14: yellow, 15: white.
+	#Range: 0 ~ 15
+	commandColor = 2
+	#Color for the subcommand in /help. The possible values are; 0: black, 1: dark_blue, 2: dark_green, 3: dark_aqua, 4: dark_red, 5: dark_purple, 6: gold, 7: gray, 8: dark_gray, 9: blue, 10: green, 11: aqua, 12: red, 13: light_purple, 14: yellow, 15: white.
+	#Range: 0 ~ 15
+	subCommandColor = 7
+
+["Command Ping Settings"]
+	#Response Format for command must include %time.
+	response = "Pong! %time"
+
+["Command Kit Settings"]
+	#Name of kit to issue to new players. If this is left blank, it will be ignored.
+	kitForNewPlayers = ""
+

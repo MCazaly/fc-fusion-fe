@@ -1,0 +1,7 @@
+
+[Sign]
+	#Allow commands to be run when right clicking signs.
+	allowSignCommands = false
+	#Allow players to edit a sign by right clicking on it with a sign item while sneaking.
+	allowSignEditing = false
+

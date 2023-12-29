@@ -1,0 +1,10 @@
+
+[Economy]
+	#Itemprices for the economy module
+	Itemprices = []
+
+[EconomyConfig]
+	#If disabled, shops have an infinite stock. Otherwise players can only buy items that have been sold to the shop before
+	use_stock = false
+	shopTags = ["[FEShop]"]
+

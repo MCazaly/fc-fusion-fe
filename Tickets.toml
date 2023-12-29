@@ -1,0 +1,7 @@
+
+[Tickets]
+	categories = ["griefing", "overflow", "dispute"]
+	#Don't change anything in there.
+	#Range: > 0
+	currentID = 0
+

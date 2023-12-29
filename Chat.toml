@@ -1,0 +1,47 @@
+
+#Chat configuration
+[Chat]
+	#Format for chat. Always needs to contain all 5 "%s" placeholders like the default!
+	ChatFormat = "%s%s<%s>%s%s "
+	#Log all chat messages
+	LogChat = true
+	#Welcome messages for new players. Can be color formatted (supports script arguments)
+	WelcomeMessage = "Oh shit, it's @player!"
+	#Login message shown each time the player logs in (supports script arguments)
+	LoginMessage = ["Welcome to FriendlyCraft Live, @player!"]
+
+#Gamemode names
+[Gamemodes]
+	Survival = "survival"
+	Creative = "creative"
+	Adventure = "adventure"
+
+[Mute]
+	#All commands in here will be blocked if the player is muted.
+	mutedCommands = ["me", "say"]
+
+[Censor]
+	#Enable Chat Censor?
+	enable = false
+	#Damage to a player when he uses a censored word
+	#Range: > 0
+	slapDamage = 1
+	#Replace censored words with this character
+	censorSymbol = "#"
+	#Words to be censored. Prepend with ! to disable word boundary check.
+	words = ["fuck\\S*", "bastard", "moron", "ass", "asshole", "bitch", "shit"]
+
+#Automated spam
+[TimedMessage]
+	#Interval in seconds. 0 to disable
+	#Range: > 0
+	inverval = 1800
+	#Enable TimedMessages.
+	enabled = true
+	#Shuffle messages
+	shuffle = true
+	#Each line is 1 message. 
+	#You can use scripting arguments and color codes. 
+	#Using json messages (tellraw) is also supported
+	messages = ["Special thanks to Camber!", "Special thanks to Jay!"]
+
